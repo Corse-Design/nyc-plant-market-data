@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "publishedAt": "2026-03-26T08:32:47.007Z",
+  "publishedAt": "2026-03-26T10:02:54.456Z",
   "marketDates": [
     {
       "id": "2026-04-19",
@@ -99,7 +99,7 @@
       "id": "v03",
       "businessName": "Garden of Grace / Plantie Val",
       "contactName": "Valerie Smith",
-      "socialMedia": "Instagram @plantie_val_21",
+      "socialMedia": "https://www.instagram.com/plantie_val_21/",
       "website": "",
       "categories": [
         "houseplants"
@@ -117,7 +117,7 @@
       "id": "v04",
       "businessName": "Ophelia Li",
       "contactName": "Ophelia Li",
-      "socialMedia": "",
+      "socialMedia": "https://www.instagram.com/ophe0711/",
       "website": "",
       "categories": [
         "accessories",
@@ -154,8 +154,8 @@
       "id": "v06",
       "businessName": "Moonstone & Mulberry",
       "contactName": "Kim Gros",
-      "socialMedia": "IG: moonstoneandmulberry | moonstoneandmulberry.com",
-      "website": "",
+      "socialMedia": "https://www.instagram.com/moonstoneandmulberry",
+      "website": "https://moonstoneandmulberry.com/",
       "categories": [
         "herbal"
       ],
@@ -172,7 +172,7 @@
       "id": "v07",
       "businessName": "Urban Plant NYC",
       "contactName": "Brian Ruan",
-      "socialMedia": "urban plant nyc",
+      "socialMedia": "https://www.instagram.com/urban_plant_nyc/",
       "website": "",
       "categories": [
         "houseplants"
@@ -194,8 +194,8 @@
       "id": "v08",
       "businessName": "Emotional Support Plants",
       "contactName": "Yuliya Obraztsova",
-      "socialMedia": "Emotionalsupportplants_",
-      "website": "",
+      "socialMedia": "https://www.instagram.com/Emotionalsupportplants_",
+      "website": "https://emotionalsupportplants.com/",
       "categories": [
         "houseplants",
         "accessories"
@@ -217,8 +217,8 @@
       "id": "v09",
       "businessName": "Manhattan Orchid Society",
       "contactName": "Amy Ohe",
-      "socialMedia": "",
-      "website": "",
+      "socialMedia": "https://www.instagram.com/manhattanorchidsociety/",
+      "website": "https://www.manhattanorchid.org/",
       "categories": [
         "society",
         "houseplants"
@@ -237,7 +237,7 @@
       "businessName": "GrowinShade Plant Shop",
       "contactName": "Kandice Rogers",
       "socialMedia": "https://www.instagram.com/growinshade",
-      "website": "",
+      "website": "https://growinshade.com/",
       "categories": [
         "houseplants",
         "accessories",
@@ -279,8 +279,8 @@
       "id": "v12",
       "businessName": "Thevivero",
       "contactName": "Kevin Low",
-      "socialMedia": "https://www.etsy.com/shop/TheVivero",
-      "website": "",
+      "socialMedia": "",
+      "website": "https://www.etsy.com/shop/TheVivero",
       "categories": [
         "houseplants"
       ],
@@ -316,7 +316,7 @@
       "businessName": "MiaOasis",
       "contactName": "Wei Guo",
       "socialMedia": "https://www.instagram.com/wei_miaoasis/",
-      "website": "",
+      "website": "https://miaoasis.com/",
       "categories": [
         "houseplants",
         "accessories"
@@ -338,8 +338,8 @@
       "id": "v15",
       "businessName": "NY Cactus and Succulent Society",
       "contactName": "Nathan Marchack",
-      "socialMedia": "@nycsucculent",
-      "website": "",
+      "socialMedia": "https://www.instagram.com/nycsucculent",
+      "website": "https://www.nycss.org/",
       "categories": [
         "houseplants",
         "accessories",
@@ -363,7 +363,7 @@
       "businessName": "Rockaway Botanica",
       "contactName": "Leah Williams Anicet",
       "socialMedia": "https://www.instagram.com/rockawaybotanica",
-      "website": "",
+      "website": "https://rockawaybotanica.com/",
       "categories": [
         "houseplants",
         "accessories",
@@ -388,7 +388,7 @@
       "businessName": "Treestar",
       "contactName": "Jose Alvarez",
       "socialMedia": "https://www.instagram.com/treestar.nyc/",
-      "website": "",
+      "website": "https://treestarnyc.com",
       "categories": [
         "other"
       ],
@@ -403,7 +403,7 @@
       "id": "v19",
       "businessName": "Green and Blue Eco Care",
       "contactName": "Simone Marques",
-      "socialMedia": "Instagram.com/greenandblueecocare",
+      "socialMedia": "https://www.instagram.com/greenandblueecocare",
       "website": "",
       "categories": [
         "society",
@@ -426,8 +426,8 @@
       "id": "v20",
       "businessName": "RootedTogether ByThreeSisters",
       "contactName": "Selin Ogultekin",
-      "socialMedia": "RootedTogether_ByThreeSisters on Palmstreet",
-      "website": "",
+      "socialMedia": "https://palmstreet.app/u/RootedTogether_ByThreeSisters",
+      "website": "https://www.rootedtogetherbythreesisters.com/",
       "categories": [
         "houseplants",
         "growing_media"
@@ -449,7 +449,7 @@
       "businessName": "Plantstop US",
       "contactName": "Fnu Untung",
       "socialMedia": "https://www.instagram.com/plantstop.us",
-      "website": "",
+      "website": "https://plantstop.us/",
       "categories": [
         "houseplants"
       ],
@@ -490,8 +490,8 @@
       "id": "v23",
       "businessName": "Bubbly Moon Naturals",
       "contactName": "Marshalla Ramos-Inde",
-      "socialMedia": "@bubblymoonnaturals",
-      "website": "",
+      "socialMedia": "https://www.instagram.com/bubblymoonnaturals/",
+      "website": "https://www.bubblymoonnaturals.com/",
       "categories": [
         "herbal",
         "other"
@@ -538,8 +538,8 @@
       "id": "v25",
       "businessName": "Lorimer X TechnTendril",
       "contactName": "Leyla Collins",
-      "socialMedia": "@techntendril on Instagram",
-      "website": "",
+      "socialMedia": "https://www.instagram.com/techntendril",
+      "website": "https://techntendril.com/",
       "categories": [
         "houseplants",
         "growing_media",
@@ -562,7 +562,7 @@
       "businessName": "Vinnabop",
       "contactName": "Emily Jeffery",
       "socialMedia": "https://www.instagram.com/vinnabop",
-      "website": "",
+      "website": "https://vinnabop.com/",
       "categories": [
         "houseplants",
         "accessories"
@@ -583,8 +583,8 @@
       "id": "v27",
       "businessName": "Mark Womack Pottery",
       "contactName": "Mark Womack",
-      "socialMedia": "Insta/Facebook: @markwomackpottery",
-      "website": "",
+      "socialMedia": "https://www.instagram.com/markwomackpottery",
+      "website": "https://markwomackpottery.com/",
       "categories": [
         "accessories"
       ],
@@ -599,8 +599,8 @@
       "id": "v28",
       "businessName": "All Things Grow",
       "contactName": "Stu Sherman",
-      "socialMedia": "Insta: allthingsgrow.nyc",
-      "website": "",
+      "socialMedia": "https://www.instagram.com/allthingsgrow.nyc/",
+      "website": "https://allthingsgrow.net",
       "categories": [
         "houseplants",
         "garden",
@@ -623,8 +623,8 @@
       "id": "v29",
       "businessName": "The Plant Queen LLC",
       "contactName": "Mayra Flores",
-      "socialMedia": "www.instagram.com/theplantqueenllc",
-      "website": "",
+      "socialMedia": "https://www.instagram.com/theplantqueenllc",
+      "website": "https://plantqueen.com/",
       "categories": [
         "houseplants",
         "accessories",
@@ -643,7 +643,7 @@
       "id": "v30",
       "businessName": "Becs Buds",
       "contactName": "Rebecca Robb",
-      "socialMedia": "Instagram.com/becs_buds_/",
+      "socialMedia": "https://Instagram.com/becs_buds_/",
       "website": "",
       "categories": [
         "garden",
@@ -704,7 +704,7 @@
       "id": "v33",
       "businessName": "Granny Planties",
       "contactName": "Sarah Vaugeois",
-      "socialMedia": "IG @vintagegrannyplanties",
+      "socialMedia": "https://www.instagram.com/vintagegrannyplanties/",
       "website": "",
       "categories": [
         "houseplants",
@@ -726,7 +726,7 @@
       "businessName": "Hedgefund",
       "contactName": "Aaron Pecson",
       "socialMedia": "https://www.instagram.com/hedgefundplants",
-      "website": "",
+      "website": "https://hedgefundplants.com/",
       "categories": [
         "houseplants",
         "accessories"
@@ -746,7 +746,7 @@
       "id": "v36",
       "businessName": "SparklingVinez",
       "contactName": "Sherryl Pascual",
-      "socialMedia": "instagram.com/sparklingvinez",
+      "socialMedia": "https://www.instagram.com/sparklingvinez",
       "website": "",
       "categories": [
         "houseplants",
@@ -768,8 +768,8 @@
       "id": "v37",
       "businessName": "Pollen Basket",
       "contactName": "Malorie Pangilinan",
-      "socialMedia": "instagram.com/pollenbasketcafe",
-      "website": "",
+      "socialMedia": "https://www.instagram.com/pollenbasketcafe",
+      "website": "https://www.pollenbasketcafe.com/",
       "categories": [
         "food_bev"
       ],
@@ -803,8 +803,8 @@
       "id": "v40",
       "businessName": "QueensNYNativePlants",
       "contactName": "Edward Felsenthal",
-      "socialMedia": "instagram.com/native_sphere",
-      "website": "",
+      "socialMedia": "https://www.instagram.com/native_sphere",
+      "website": "https://queensnynativeplants.com/",
       "categories": [
         "garden"
       ],
@@ -823,7 +823,7 @@
       "id": "v41",
       "businessName": "Yoko Morishita",
       "contactName": "Yoko Morishita",
-      "socialMedia": "@backyard_farm_in_brooklyn",
+      "socialMedia": "https://www.instagram.com/backyard_farm_in_brooklyn",
       "website": "",
       "categories": [
         "houseplants",
@@ -841,8 +841,8 @@
       "id": "v1773864164115_1",
       "businessName": "Nena’s Garden",
       "contactName": "María José Araujo",
-      "socialMedia": "nenasgarden.square.site",
-      "website": "",
+      "socialMedia": "",
+      "website": "https://nenasgarden.square.site/",
       "categories": [
         "accessories"
       ],
@@ -863,8 +863,8 @@
       "id": "v1773864164115_2",
       "businessName": "Wilefire Leather",
       "contactName": "Wiley Davis",
-      "socialMedia": "fireflylandscapenyc",
-      "website": "",
+      "socialMedia": "https://www.instagram.com/fireflylandscapenyc",
+      "website": "https://firefly-landscape.com/",
       "categories": [
         "accessories"
       ],
@@ -877,10 +877,10 @@
     },
     {
       "id": "v1774117190857_0",
-      "businessName": "Sunny Chapman Design dba Birdhouse Tropicals",
+      "businessName": "Birdhouse Tropicals",
       "contactName": "Sunny Chapman",
-      "socialMedia": "@birdhousetropicals",
-      "website": "",
+      "socialMedia": "https://www.instagram.com/birdhousetropicals",
+      "website": "https://www.etsy.com/shop/BirdhouseTropicals",
       "categories": [
         "houseplants"
       ],
@@ -895,7 +895,7 @@
       "id": "v1774265235036_0",
       "businessName": "Vly Ridge Farm",
       "contactName": "Michael Kelly",
-      "socialMedia": "Www.instagram.com/vlyridgefarm",
+      "socialMedia": "https://www.instagram.com/vlyridgefarm",
       "website": "",
       "categories": [
         "houseplants"
