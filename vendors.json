@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "publishedAt": "2026-03-26T10:02:54.456Z",
+  "publishedAt": "2026-03-30T21:01:32.259Z",
   "marketDates": [
     {
       "id": "2026-04-19",
@@ -279,7 +279,7 @@
       "id": "v12",
       "businessName": "Thevivero",
       "contactName": "Kevin Low",
-      "socialMedia": "",
+      "socialMedia": "https://www.etsy.com/shop/TheVivero",
       "website": "https://www.etsy.com/shop/TheVivero",
       "categories": [
         "houseplants"
@@ -485,29 +485,6 @@
       ],
       "spaceType": "two",
       "bio": "We offer a wide variety of sansevieria that we would love to share with the NYC community and are excited to be part of this new event!"
-    },
-    {
-      "id": "v23",
-      "businessName": "Bubbly Moon Naturals",
-      "contactName": "Marshalla Ramos-Inde",
-      "socialMedia": "https://www.instagram.com/bubblymoonnaturals/",
-      "website": "https://www.bubblymoonnaturals.com/",
-      "categories": [
-        "herbal",
-        "other"
-      ],
-      "products": "Herbal soaps, seeds",
-      "dates": [
-        "2026-04-19",
-        "2026-05-24",
-        "2026-06-21",
-        "2026-07-19",
-        "2026-08-23",
-        "2026-09-20",
-        "2026-10-18"
-      ],
-      "spaceType": "one",
-      "bio": "I sell herbal infused soaps, hair serums and salves at our local Bushwick farmer's markets as well as seeds from crops I have grown."
     },
     {
       "id": "v24",
@@ -909,6 +886,24 @@
       ],
       "spaceType": "one",
       "bio": "I started tissue culturing and growing plants in the Hudson valley to sell within the NYC metro area. The goal was to provide people in this area access to plants without the bigger markups required when importing everything."
+    },
+    {
+      "id": "v1774475396476_0",
+      "businessName": "Petals to the People Farm",
+      "contactName": "Mariah Young-Jones",
+      "socialMedia": "",
+      "website": "https://www.petalstothepeoplefarm.com/",
+      "categories": [
+        "garden"
+      ],
+      "products": "April - heirloom pansy/viola six packs + mason jar bouquets (narcissi, hyacinth, tulips, dutch iris); May - ranunculus and spring flower bouquets; October - dahlia bunches and mini dried flower pumpkins.",
+      "dates": [
+        "2026-04-19",
+        "2026-05-24",
+        "2026-10-18"
+      ],
+      "spaceType": "one",
+      "bio": "Petals to the People is a human-scale flower farm focused on regenerative growing practices. 2026 is its first year. I farm on leased land in Princeton, NJ but sell my flowers exclusively to New York City and am based in Brooklyn. I'd love to be a part of the plant market as a way to introduce myself to this community of like-minded plant and flower lovers. I believe I'll bring something a little bit different to the plant market!"
     }
   ]
 }
