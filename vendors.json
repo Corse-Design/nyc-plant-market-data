@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "publishedAt": "2026-04-12T22:18:17.285Z",
+  "publishedAt": "2026-04-12T22:23:39.539Z",
   "marketDates": [
     {
       "id": "2026-04-19",
@@ -176,6 +176,28 @@
       ],
       "spaceType": "two",
       "bio": ""
+    },
+    {
+      "businessName": "Emotional Support Plants",
+      "contactName": "Yuliya Obraztsova",
+      "socialMedia": "https://www.instagram.com/Emotionalsupportplants_",
+      "website": "https://emotionalsupportplants.com/",
+      "categories": [
+        "houseplants",
+        "accessories"
+      ],
+      "products": "Houseplants and accessories",
+      "dates": [
+        "2026-04-19",
+        "2026-05-24",
+        "2026-06-21",
+        "2026-07-19",
+        "2026-08-23",
+        "2026-09-20",
+        "2026-10-18"
+      ],
+      "spaceType": "two",
+      "bio": "Expand my craft and meet new like-minded people with cool plants."
     },
     {
       "businessName": "Manhattan Orchid Society",
