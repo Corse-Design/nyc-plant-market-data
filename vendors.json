@@ -1,34 +1,30 @@
 {
   "season": "2026",
-  "publishedAt": "2026-03-30T21:01:32.259Z",
+  "publishedAt": "2026-04-12T22:07:59.779Z",
   "marketDates": [
     {
       "id": "2026-04-19",
       "label": "Apr 19",
       "full": "April 19, 2026",
-      "special": false,
-      "specialLabel": null
+      "special": false
     },
     {
       "id": "2026-05-24",
       "label": "May 24",
       "full": "May 24, 2026",
-      "special": false,
-      "specialLabel": null
+      "special": false
     },
     {
       "id": "2026-06-21",
       "label": "Jun 21",
       "full": "June 21, 2026",
-      "special": false,
-      "specialLabel": null
+      "special": false
     },
     {
       "id": "2026-07-19",
       "label": "Jul 19",
       "full": "July 19, 2026",
-      "special": false,
-      "specialLabel": null
+      "special": false
     },
     {
       "id": "2026-08-23",
@@ -41,20 +37,17 @@
       "id": "2026-09-20",
       "label": "Sep 20",
       "full": "September 20, 2026",
-      "special": false,
-      "specialLabel": null
+      "special": false
     },
     {
       "id": "2026-10-18",
       "label": "Oct 18",
       "full": "October 18, 2026",
-      "special": false,
-      "specialLabel": null
+      "special": false
     }
   ],
   "vendors": [
     {
-      "id": "v01",
       "businessName": "Subspecies Ceramics",
       "contactName": "Brian Nasworthy",
       "socialMedia": "https://www.instagram.com/subspecies.ceramics",
@@ -77,7 +70,6 @@
       "bio": "I am based in Queens and want to represent local and handmade ceramics for the plant community in NYC. I believe my ceramics have a unique and distinctive style that elevates the plants they are meant to hold."
     },
     {
-      "id": "v02",
       "businessName": "Ken's Corner 7",
       "contactName": "Ken Ip",
       "socialMedia": "https://youtu.be/4igPtmmxnuE",
@@ -96,7 +88,6 @@
       "bio": "I am a plant and fish person. This combination of plant and fish together is not hard. I want to share this with other people that if I can do it they can too."
     },
     {
-      "id": "v03",
       "businessName": "Garden of Grace / Plantie Val",
       "contactName": "Valerie Smith",
       "socialMedia": "https://www.instagram.com/plantie_val_21/",
@@ -114,7 +105,6 @@
       "bio": "As a Facebook Marketplace seller, I am looking to grow my business and my exposure in the NYC plant community."
     },
     {
-      "id": "v04",
       "businessName": "Ophelia Li",
       "contactName": "Ophelia Li",
       "socialMedia": "https://www.instagram.com/ophe0711/",
@@ -133,7 +123,6 @@
       "bio": "Connect with people who have the same interest and make friends."
     },
     {
-      "id": "v05",
       "businessName": "Clay Gardens",
       "contactName": "Nev Johnson",
       "socialMedia": "https://www.instagram.com/clay__gardens",
@@ -151,7 +140,6 @@
       "bio": "I'm starting up my ceramics business again after a long pause due to a cross-country move and other life changes. This would be a wonderful opportunity to launch in my new city. I'm very passionate about this intersection of art and plants. I'm also a longtime supporter of other vendors like cactus store/LESCSS and a new member of the NYC cactus and succulent society."
     },
     {
-      "id": "v06",
       "businessName": "Moonstone & Mulberry",
       "contactName": "Kim Gros",
       "socialMedia": "https://www.instagram.com/moonstoneandmulberry",
@@ -169,7 +157,6 @@
       "bio": "I'm a local small business and my entire life revolves around plants. I'd love to reach new people who already love plants and who might be interested in herbalism."
     },
     {
-      "id": "v07",
       "businessName": "Urban Plant NYC",
       "contactName": "Brian Ruan",
       "socialMedia": "https://www.instagram.com/urban_plant_nyc/",
@@ -191,30 +178,6 @@
       "bio": ""
     },
     {
-      "id": "v08",
-      "businessName": "Emotional Support Plants",
-      "contactName": "Yuliya Obraztsova",
-      "socialMedia": "https://www.instagram.com/Emotionalsupportplants_",
-      "website": "https://emotionalsupportplants.com/",
-      "categories": [
-        "houseplants",
-        "accessories"
-      ],
-      "products": "Houseplants and accessories",
-      "dates": [
-        "2026-04-19",
-        "2026-05-24",
-        "2026-06-21",
-        "2026-07-19",
-        "2026-08-23",
-        "2026-09-20",
-        "2026-10-18"
-      ],
-      "spaceType": "two",
-      "bio": "Expand my craft and meet new like-minded people with cool plants."
-    },
-    {
-      "id": "v09",
       "businessName": "Manhattan Orchid Society",
       "contactName": "Amy Ohe",
       "socialMedia": "https://www.instagram.com/manhattanorchidsociety/",
@@ -233,7 +196,6 @@
       "bio": "Outreach and membership growth for the orchid society."
     },
     {
-      "id": "v10",
       "businessName": "GrowinShade Plant Shop",
       "contactName": "Kandice Rogers",
       "socialMedia": "https://www.instagram.com/growinshade",
@@ -253,7 +215,6 @@
       "bio": "Interested in being part of the plant community and sharing our passion for plants and design."
     },
     {
-      "id": "v11",
       "businessName": "LESCSS",
       "contactName": "Zack Repko",
       "socialMedia": "https://www.instagram.com/les.css/",
@@ -276,7 +237,6 @@
       "bio": "To help foster the community of plant-growers in the city and to reconnect people to the physical world."
     },
     {
-      "id": "v12",
       "businessName": "Thevivero",
       "contactName": "Kevin Low",
       "socialMedia": "https://www.etsy.com/shop/TheVivero",
@@ -295,7 +255,6 @@
       "bio": "I want to be able to share my own anthurium hybrid creations while also sharing my love for plants!"
     },
     {
-      "id": "v13",
       "businessName": "Soilmates.Nyc",
       "contactName": "Stephanie Mendoza",
       "socialMedia": "https://www.instagram.com/soilmates.nyc",
@@ -312,7 +271,6 @@
       "bio": "Bring joy through plants."
     },
     {
-      "id": "v14",
       "businessName": "MiaOasis",
       "contactName": "Wei Guo",
       "socialMedia": "https://www.instagram.com/wei_miaoasis/",
@@ -335,7 +293,6 @@
       "bio": ""
     },
     {
-      "id": "v15",
       "businessName": "NY Cactus and Succulent Society",
       "contactName": "Nathan Marchack",
       "socialMedia": "https://www.instagram.com/nycsucculent",
@@ -359,7 +316,6 @@
       "bio": "As an entirely volunteer-based community organization, we are excited for this opportunity to share our members' passions and growing skills related to cacti and succulents with more of the NYC population. We also look forward to meeting more local growers and contributing to this wonderful event!"
     },
     {
-      "id": "v16",
       "businessName": "Rockaway Botanica",
       "contactName": "Leah Williams Anicet",
       "socialMedia": "https://www.instagram.com/rockawaybotanica",
@@ -384,7 +340,6 @@
       "bio": "Rockaway Botanica was created to make plant collecting feel intentional, elevated, and accessible. I believe urban greening is not just about selling plants — it's about helping people reconnect with nature in a way that feels personal and sustainable. As someone born in Trinidad and now building my plant business in New York, plants have always represented culture, care, and community to me. NYC Plant Market aligns beautifully with my mission: to transform everyday spaces into living sanctuaries and to connect with fellow plant lovers across the city."
     },
     {
-      "id": "v18",
       "businessName": "Treestar",
       "contactName": "Jose Alvarez",
       "socialMedia": "https://www.instagram.com/treestar.nyc/",
@@ -400,7 +355,6 @@
       "bio": "We'd love the opportunity to share our natural soaps with the NY Plant Market community! All of our soaps are made from plant oils, our candles are made from soy wax, and each purchase helps plant one tree with a donation to onetreeplanted.org. Together we can keep people clean and keep the earth green."
     },
     {
-      "id": "v19",
       "businessName": "Green and Blue Eco Care",
       "contactName": "Simone Marques",
       "socialMedia": "https://www.instagram.com/greenandblueecocare",
@@ -423,7 +377,6 @@
       "bio": "Fundraising for our cause and networking with plant lovers."
     },
     {
-      "id": "v20",
       "businessName": "RootedTogether ByThreeSisters",
       "contactName": "Selin Ogultekin",
       "socialMedia": "https://palmstreet.app/u/RootedTogether_ByThreeSisters",
@@ -445,7 +398,6 @@
       "bio": "We're three sisters based in Bay Ridge, Brooklyn, offering curated plants, fresh imports, and a whole lot of love. Until now, we've been selling exclusively online through Palmstreet, but our favorite part of this journey has been meeting our local pickup customers in person. So many of them tell us the same thing — they don't have enough plant friends! We'd love to change that. Our goal is to bring our planty love and knowledge beyond Bay Ridge and connect with the entire NYC plant community. We're not just selling plants. We're building community."
     },
     {
-      "id": "v21",
       "businessName": "Plantstop US",
       "contactName": "Fnu Untung",
       "socialMedia": "https://www.instagram.com/plantstop.us",
@@ -467,7 +419,6 @@
       "bio": "Plantstop US is more than just a plant seller — we are passionate about bringing rare, unique, and endemic Indonesian plants directly to the local community in New Jersey and surrounding areas. As a US-based plant business, we focus on providing carefully selected tropical plants that are not commonly found in the market."
     },
     {
-      "id": "v22",
       "businessName": "Not Your Average Sansevieria",
       "contactName": "Leslie Patton",
       "socialMedia": "https://www.facebook.com/lottaluvdesigns/",
@@ -487,7 +438,6 @@
       "bio": "We offer a wide variety of sansevieria that we would love to share with the NYC community and are excited to be part of this new event!"
     },
     {
-      "id": "v24",
       "businessName": "HerbanGarden.Eco",
       "contactName": "Jocelyn Perez Blanco",
       "socialMedia": "https://www.facebook.com/Herbangarden.eco",
@@ -512,7 +462,6 @@
       "bio": "My world revolves around plants, and I love connecting people to nature through my work. It brings me joy to introduce folks to keeping houseplants and the multitude of ways that you can do so. I was also born and raised in LIC, and it would be a great opportunity for a small business to be more visible to our local community and to network with other vendors."
     },
     {
-      "id": "v25",
       "businessName": "Lorimer X TechnTendril",
       "contactName": "Leyla Collins",
       "socialMedia": "https://www.instagram.com/techntendril",
@@ -535,7 +484,6 @@
       "bio": "A wonderful chance to not only get our business out to more people, but to also have a better chance to educate people about terrarium building and the interesting world of bio-active structures, as well as omnivorous plants."
     },
     {
-      "id": "v26",
       "businessName": "Vinnabop",
       "contactName": "Emily Jeffery",
       "socialMedia": "https://www.instagram.com/vinnabop",
@@ -557,7 +505,6 @@
       "bio": "I love plants and I love New York. I work in health care but my passion is my small plant business which I refer to as my mental health therapy. My sister lives in Brooklyn and works as a teacher in special education and we often do rare plant sales together across PA, NY, and NJ which is an awesome way to bond and share our hobby and business."
     },
     {
-      "id": "v27",
       "businessName": "Mark Womack Pottery",
       "contactName": "Mark Womack",
       "socialMedia": "https://www.instagram.com/markwomackpottery",
@@ -573,7 +520,6 @@
       "bio": "Not sure. Need more info."
     },
     {
-      "id": "v28",
       "businessName": "All Things Grow",
       "contactName": "Stu Sherman",
       "socialMedia": "https://www.instagram.com/allthingsgrow.nyc/",
@@ -597,7 +543,6 @@
       "bio": "Looking for opportunity to expand our brand reach and sell products."
     },
     {
-      "id": "v29",
       "businessName": "The Plant Queen LLC",
       "contactName": "Mayra Flores",
       "socialMedia": "https://www.instagram.com/theplantqueenllc",
@@ -617,7 +562,6 @@
       "bio": "I'm all about spreading love through plants and promoting local businesses and entrepreneurs! I grow everything myself, I make my own mix, pot everything up in my custom cups and provide great customer service. This is my passion! I want to continue to expand my traveling vendor experiences!"
     },
     {
-      "id": "v30",
       "businessName": "Becs Buds",
       "contactName": "Rebecca Robb",
       "socialMedia": "https://Instagram.com/becs_buds_/",
@@ -637,7 +581,6 @@
       "bio": "I have been cultivating my collection over the last 5 years and have loved every step of the journey. My hope is to grow my network with other passionate vendors and be able to provide a diverse selection of rare houseplants to other enthusiasts!"
     },
     {
-      "id": "v31",
       "businessName": "That One Dude's Plants",
       "contactName": "Jisun Zaman",
       "socialMedia": "https://www.instagram.com/that_one_dudes_plants/",
@@ -656,7 +599,6 @@
       "bio": "I want to see local interest in carnivorous plants and get an opportunity to show people my plants."
     },
     {
-      "id": "v32",
       "businessName": "KickingDirt ExoticPlants",
       "contactName": "Ungkun C",
       "socialMedia": "https://www.instagram.com/kicking.dirt",
@@ -678,7 +620,6 @@
       "bio": "To share my love for variegated rare and unicorn plants."
     },
     {
-      "id": "v33",
       "businessName": "Granny Planties",
       "contactName": "Sarah Vaugeois",
       "socialMedia": "https://www.instagram.com/vintagegrannyplanties/",
@@ -699,7 +640,6 @@
       "bio": "I am a Queens-based maker who has been selling at local markets for the last four years. Plants are my passion, and I would love to be part of a plant market happening in my own neighborhood. Knowing that this market will include many plant vendors, I would plan to bring a variety of empty planters to sell as well."
     },
     {
-      "id": "v34",
       "businessName": "Hedgefund",
       "contactName": "Aaron Pecson",
       "socialMedia": "https://www.instagram.com/hedgefundplants",
@@ -720,7 +660,6 @@
       "bio": "Because I want to support my big daddy plant market boss so we can get rich together."
     },
     {
-      "id": "v36",
       "businessName": "SparklingVinez",
       "contactName": "Sherryl Pascual",
       "socialMedia": "https://www.instagram.com/sparklingvinez",
@@ -742,7 +681,6 @@
       "bio": "Love the plant community — most of my plant friends are vending too. Love to share my plants and kokedamas."
     },
     {
-      "id": "v37",
       "businessName": "Pollen Basket",
       "contactName": "Malorie Pangilinan",
       "socialMedia": "https://www.instagram.com/pollenbasketcafe",
@@ -760,7 +698,6 @@
       "bio": "In celebrating pollinators, we also share education about pollinators and ways to aid in their conservation. The best thing any individual can do is to plant native species — even on a balcony or window box! Since this plant market is part of a movement to reconnect NYC with nature, we think this is an amazing fit! We'd love to spread our message to an audience that already loves plants."
     },
     {
-      "id": "v38",
       "businessName": "Dre Under the Leaves",
       "contactName": "Adreanna Halliman",
       "socialMedia": "https://youtube.com/@dreundertheleaves",
@@ -777,7 +714,6 @@
       "bio": "An opportunity to sell and get my name out there as I begin my business."
     },
     {
-      "id": "v40",
       "businessName": "QueensNYNativePlants",
       "contactName": "Edward Felsenthal",
       "socialMedia": "https://www.instagram.com/native_sphere",
@@ -797,7 +733,6 @@
       "bio": "I am looking for more locations to serve my customers besides my home and the one farmer's market I sell at now. I have experience selling to city residents with their own unique requirements to plant for rain gardens, tree pits, back yards, fire escapes and rooftops."
     },
     {
-      "id": "v41",
       "businessName": "Yoko Morishita",
       "contactName": "Yoko Morishita",
       "socialMedia": "https://www.instagram.com/backyard_farm_in_brooklyn",
@@ -815,7 +750,27 @@
       "bio": "Making space for more plants ;)"
     },
     {
-      "id": "v1773864164115_1",
+      "businessName": "Jungle Room Plants",
+      "contactName": "Nate Jenswold",
+      "socialMedia": "https://www.instagram.com/jungle_room_plants/",
+      "website": "",
+      "categories": [
+        "other"
+      ],
+      "products": "I am a small plant design & care company! Not sure if it's worth having me at a booth, but I'd love to network with all of the plant lovers in the community.",
+      "dates": [
+        "2026-04-19",
+        "2026-05-24",
+        "2026-06-21",
+        "2026-07-19",
+        "2026-08-23",
+        "2026-09-20",
+        "2026-10-18"
+      ],
+      "spaceType": "one",
+      "bio": "Jungle Room Plants was created from a belief that every New Yorker deserves a little more nature in their everyday life. What started as a mission to brighten one small NYC apartment has grown into helping homes and offices across the city feel more alive through thoughtful plant design and care.\n\nWe’re excited to be part of NY Plant Market because it brings together the exact community we love - local growers, plant enthusiasts, and people who simply want to make their spaces greener. Being part of a movement that reconnects New Yorkers with nature feels deeply aligned with our purpose, and we’re grateful to help make the city a little greener, one space at a time."
+    },
+    {
       "businessName": "Nena’s Garden",
       "contactName": "María José Araujo",
       "socialMedia": "",
@@ -837,7 +792,6 @@
       "bio": "We would love to be part of the NY Plant Market because we create fun planters that make caring for a plant a beautiful activity—and we would love for people to be able to have this experience."
     },
     {
-      "id": "v1773864164115_2",
       "businessName": "Wilefire Leather",
       "contactName": "Wiley Davis",
       "socialMedia": "https://www.instagram.com/fireflylandscapenyc",
@@ -853,7 +807,6 @@
       "bio": "As a grower, landscaper and houseplant collector in NYC, it feels special to be a part of this market! The work I create is unique and I'd like to be a part of a broader plant community in the city. I'd also be excited to connect with and support other vendors and their work."
     },
     {
-      "id": "v1774117190857_0",
       "businessName": "Birdhouse Tropicals",
       "contactName": "Sunny Chapman",
       "socialMedia": "https://www.instagram.com/birdhousetropicals",
@@ -869,7 +822,6 @@
       "bio": "To reach new customers"
     },
     {
-      "id": "v1774265235036_0",
       "businessName": "Vly Ridge Farm",
       "contactName": "Michael Kelly",
       "socialMedia": "https://www.instagram.com/vlyridgefarm",
@@ -888,7 +840,6 @@
       "bio": "I started tissue culturing and growing plants in the Hudson valley to sell within the NYC metro area. The goal was to provide people in this area access to plants without the bigger markups required when importing everything."
     },
     {
-      "id": "v1774475396476_0",
       "businessName": "Petals to the People Farm",
       "contactName": "Mariah Young-Jones",
       "socialMedia": "",
@@ -904,6 +855,61 @@
       ],
       "spaceType": "one",
       "bio": "Petals to the People is a human-scale flower farm focused on regenerative growing practices. 2026 is its first year. I farm on leased land in Princeton, NJ but sell my flowers exclusively to New York City and am based in Brooklyn. I'd love to be a part of the plant market as a way to introduce myself to this community of like-minded plant and flower lovers. I believe I'll bring something a little bit different to the plant market!"
+    },
+    {
+      "businessName": "Ct plant dads",
+      "contactName": "Bryan esguerra",
+      "socialMedia": "",
+      "website": "",
+      "categories": [
+        "houseplants"
+      ],
+      "products": "Anthurium,alocasia,philodendron,peperomia,monstera,pothos,hoyas",
+      "dates": [
+        "2026-04-19",
+        "2026-05-24",
+        "2026-06-21",
+        "2026-07-19",
+        "2026-08-23",
+        "2026-10-18"
+      ],
+      "spaceType": "two",
+      "bio": "We would love to share our passion for houseplants with other plant enthusiasts"
+    },
+    {
+      "businessName": "Just Wright Elements",
+      "contactName": "Erica Wright",
+      "socialMedia": "@justwrightelements",
+      "website": "",
+      "categories": [
+        "houseplants",
+        "accessories"
+      ],
+      "products": "Airplants and various plant containers",
+      "dates": [
+        "2026-04-19"
+      ],
+      "spaceType": "one",
+      "bio": "Introduce plant lovers to airplants and provide customers with care tips"
+    },
+    {
+      "businessName": "PlantPro",
+      "contactName": "Ryan Rinaldi",
+      "socialMedia": "",
+      "website": "",
+      "categories": [
+        "other"
+      ],
+      "products": "Trying to market my product to plant care specialists who want to make $ for taking care of plants.",
+      "dates": [
+        "2026-04-19",
+        "2026-05-24",
+        "2026-06-21",
+        "2026-09-20",
+        "2026-10-18"
+      ],
+      "spaceType": "one",
+      "bio": "Because my product will add to the NYC plant community and help NYC plant owners take care of their plants!"
     }
   ]
 }
