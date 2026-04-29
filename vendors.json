@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "publishedAt": "2026-04-12T22:26:21.289Z",
+  "publishedAt": "2026-04-29T13:11:09.542Z",
   "marketDates": [
     {
       "id": "2026-04-19",
@@ -66,7 +66,7 @@
         "2026-09-20",
         "2026-10-18"
       ],
-      "spaceType": "one",
+      "spaceType": "two",
       "bio": "I am based in Queens and want to represent local and handmade ceramics for the plant community in NYC. I believe my ceramics have a unique and distinctive style that elevates the plants they are meant to hold."
     },
     {
@@ -142,7 +142,7 @@
     {
       "businessName": "Moonstone & Mulberry",
       "contactName": "Kim Gros",
-      "socialMedia": "https://www.instagram.com/moonstoneandmulberry",
+      "socialMedia": "https://www.moonstoneandmulberry.com",
       "website": "https://moonstoneandmulberry.com/",
       "categories": [
         "herbal"
@@ -287,6 +287,11 @@
       "products": "Houseplants",
       "dates": [
         "2026-04-19",
+        "2026-05-24",
+        "2026-06-21",
+        "2026-07-19",
+        "2026-09-20",
+        "2026-10-18",
         "2026-08-23"
       ],
       "spaceType": "one",
@@ -388,7 +393,6 @@
       "products": "Eco mugs, bottles, community",
       "dates": [
         "2026-04-19",
-        "2026-05-24",
         "2026-06-21",
         "2026-07-19",
         "2026-08-23",
@@ -454,7 +458,8 @@
         "2026-04-19",
         "2026-08-23",
         "2026-09-20",
-        "2026-10-18"
+        "2026-10-18",
+        "2026-05-24"
       ],
       "spaceType": "two",
       "bio": "We offer a wide variety of sansevieria that we would love to share with the NYC community and are excited to be part of this new event!"
@@ -544,7 +549,7 @@
     {
       "businessName": "All Things Grow",
       "contactName": "Stu Sherman",
-      "socialMedia": "https://www.instagram.com/allthingsgrow.nyc/",
+      "socialMedia": "https://allthingsgrow.net/",
       "website": "https://allthingsgrow.net",
       "categories": [
         "houseplants",
@@ -578,7 +583,8 @@
       "dates": [
         "2026-04-19",
         "2026-05-24",
-        "2026-10-18"
+        "2026-10-18",
+        "2026-06-21"
       ],
       "spaceType": "two",
       "bio": "I'm all about spreading love through plants and promoting local businesses and entrepreneurs! I grow everything myself, I make my own mix, pot everything up in my custom cups and provide great customer service. This is my passion! I want to continue to expand my traveling vendor experiences!"
@@ -901,7 +907,7 @@
     {
       "businessName": "Just Wright Elements",
       "contactName": "Erica Wright",
-      "socialMedia": "@justwrightelements",
+      "socialMedia": "https://www.instagram.com/justwrightelements/",
       "website": "",
       "categories": [
         "houseplants",
@@ -913,6 +919,22 @@
       ],
       "spaceType": "one",
       "bio": "Introduce plant lovers to airplants and provide customers with care tips"
+    },
+    {
+      "businessName": "Ishy’s plants",
+      "contactName": "Ishola Alli",
+      "socialMedia": "https://www.isholaalli.com/",
+      "website": "",
+      "categories": [
+        "houseplants"
+      ],
+      "products": "Monstera, philodendron, pothos, alocasia",
+      "dates": [
+        "2026-05-24",
+        "2026-08-23"
+      ],
+      "spaceType": "one",
+      "bio": "To connect with more plant communities"
     },
     {
       "businessName": "PlantPro",
@@ -932,6 +954,100 @@
       ],
       "spaceType": "one",
       "bio": "Because my product will add to the NYC plant community and help NYC plant owners take care of their plants!"
+    },
+    {
+      "businessName": "Brooklyn Global",
+      "contactName": "Lisa Futterman",
+      "socialMedia": "https://www.instagram.com/bklynglobal",
+      "website": "",
+      "categories": [
+        "accessories"
+      ],
+      "products": "handmade ceramic planters",
+      "dates": [
+        "2026-08-23",
+        "2026-09-20"
+      ],
+      "spaceType": "one",
+      "bio": "I love plants and most of the ceramic products I make are to display plants!"
+    },
+    {
+      "businessName": "Wild sage Ranch",
+      "contactName": "Stephanie Parmanand",
+      "socialMedia": "https://www.instagram.com/wildsageranch_",
+      "website": "",
+      "categories": [
+        "houseplants"
+      ],
+      "products": "Common to rare orchids \n2 inch varieties from succulents to hoyas \nAlocasia \nMonstera\nPhilodendron \nAlready made terrariums",
+      "dates": [
+        "2026-05-24",
+        "2026-07-19",
+        "2026-08-23"
+      ],
+      "spaceType": "two",
+      "bio": "I want to be part of NY Plant Market because it brings together a passionate community of plant lovers, collectors, and small businesses in a way that truly celebrates creativity and connection. As the owner of Wild Sage Ranch, I curate unique houseplants and create custom terrariums that act as living art pieces, and I love sharing that vision with people who appreciate both the aesthetic and wellness benefits of plants. I’m especially drawn to the energy and diversity the market attracts, as it’s not just about selling but about building relationships, connecting with other vendors, and creating memorable experiences for customers. I regularly travel for plant events, so opportunities like this mean a lot to me, and I see NY Plant Market as the perfect space to grow my brand while contributing something fresh and inspiring to the community."
+    },
+    {
+      "businessName": "PlantTheStudio",
+      "contactName": "Koryn",
+      "socialMedia": "https://www.plantthestudio.com/",
+      "website": "",
+      "categories": [
+        "houseplants",
+        "accessories",
+        "growing_media"
+      ],
+      "products": "Tropical plants, variegated alocasia, philodendron, monstera",
+      "dates": [
+        "2026-05-24",
+        "2026-06-21",
+        "2026-07-19",
+        "2026-08-23",
+        "2026-09-20",
+        "2026-10-18"
+      ],
+      "spaceType": "one",
+      "bio": "It looks fun~"
+    },
+    {
+      "businessName": "Shu’s Flower",
+      "contactName": "Shu Liang",
+      "socialMedia": "https://shusflower.com/",
+      "website": "",
+      "categories": [
+        "houseplants",
+        "garden",
+        "accessories"
+      ],
+      "products": "Alocasia, monstera , philodendron, some rare succulents",
+      "dates": [
+        "2026-05-24"
+      ],
+      "spaceType": "one",
+      "bio": "I want to share my growing experience with plant lovers."
+    },
+    {
+      "businessName": "Thebasements LLC",
+      "contactName": "Lucas Lu",
+      "socialMedia": "https://www.thebasements.com/",
+      "website": "",
+      "categories": [
+        "houseplants",
+        "accessories",
+        "growing_media"
+      ],
+      "products": "Aroids and plant accessories",
+      "dates": [
+        "2026-05-24",
+        "2026-06-21",
+        "2026-07-19",
+        "2026-08-23",
+        "2026-09-20",
+        "2026-10-18"
+      ],
+      "spaceType": "two",
+      "bio": "Be more active with local communities"
     }
   ]
 }
