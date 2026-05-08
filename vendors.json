@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "publishedAt": "2026-04-29T13:11:09.542Z",
+  "publishedAt": "2026-05-08T12:20:59.686Z",
   "marketDates": [
     {
       "id": "2026-04-19",
@@ -682,9 +682,10 @@
         "2026-05-24",
         "2026-07-19",
         "2026-08-23",
-        "2026-10-18"
+        "2026-10-18",
+        "2026-06-21"
       ],
-      "spaceType": "one",
+      "spaceType": "two",
       "bio": "Because I want to support my big daddy plant market boss so we can get rich together."
     },
     {
@@ -844,7 +845,8 @@
       ],
       "products": "I sell mostly Epis, specializing in Japanese Teruno Pothos such as: Colorado Constellation, Poonsin, Shalala, Lima Compacta, Amazon, Victory/Camouflage, Omelette, Green Scratch, Cast, Valencia, Himiko, Carnival, etc",
       "dates": [
-        "2026-04-19"
+        "2026-04-19",
+        "2026-05-24"
       ],
       "spaceType": "one",
       "bio": "To reach new customers"
@@ -915,7 +917,8 @@
       ],
       "products": "Airplants and various plant containers",
       "dates": [
-        "2026-04-19"
+        "2026-04-19",
+        "2026-06-21"
       ],
       "spaceType": "one",
       "bio": "Introduce plant lovers to airplants and provide customers with care tips"
@@ -1048,6 +1051,91 @@
       ],
       "spaceType": "two",
       "bio": "Be more active with local communities"
+    },
+    {
+      "businessName": "Pachamama Plants & Products",
+      "contactName": "Neal Tokarski",
+      "socialMedia": "https://www.instagram.com/pachamamaplants_products",
+      "website": "",
+      "categories": [
+        "houseplants"
+      ],
+      "products": "Anthuriums and Philodendrons",
+      "dates": [
+        "2026-05-24",
+        "2026-06-21",
+        "2026-07-19",
+        "2026-08-23",
+        "2026-09-20",
+        "2026-10-18"
+      ],
+      "spaceType": "one",
+      "bio": "I have amazing, unique plants from Ecuador and do lots of plant shows around the county. I live in New York and would love to be more involved in the plant community in my own back yard. I plan to open a store in NYC in the very near future."
+    },
+    {
+      "businessName": "Arellano Pandesal (dba, Arellano Productions LLC)",
+      "contactName": "Kian Ahmadian",
+      "socialMedia": "https://pandesal.nyc/",
+      "website": "",
+      "categories": [
+        "food_bev"
+      ],
+      "products": "Filipino bread and pastries",
+      "dates": [
+        "2026-05-24"
+      ],
+      "spaceType": "one",
+      "bio": "Pandesal and plants are a perfect pairing"
+    },
+    {
+      "businessName": "Desert West",
+      "contactName": "Jon Savino",
+      "socialMedia": "@thedesertwest",
+      "website": "",
+      "categories": [
+        "other"
+      ],
+      "products": "Rare cacti, succulents from all over. Cacti, aloes, Haworthia and others.",
+      "dates": [
+        "2026-06-21",
+        "2026-07-19",
+        "2026-08-23",
+        "2026-09-20",
+        "2026-10-18"
+      ],
+      "spaceType": "one",
+      "bio": "I love stewarding plants and sharing with folks about how they grow and where they come from. I also love staging plants and hope folks will find them special just as I do!"
+    },
+    {
+      "businessName": "Leila's Plants",
+      "contactName": "Mariel Acevedo",
+      "socialMedia": "www.instagram.com/leilasplants",
+      "website": "",
+      "categories": [
+        "houseplants"
+      ],
+      "products": "We usually curate a large variety of common and uncommon (not rare) plants such as, Dracaena, Aglaonema, Monstera, Philodendron, Peperomia, Trafescantia, Maranta, Calathea/Goeppertia, Begonia, Alocasia, Epipremnum/Pothos, Ficus, Anthurium, Money Tree, Snake Plant, Spider Plant, Umbrella Tree, Succulents, Cacti, Fern, Palm, Scindapsus, African Violet, Spathyphyllum, Bird of Paradie, String of Things (pearls, bananas, spaces, hearts), Zamioculcas, Pilea, Sansevieria, Yacca Tree, Crassula Ovata, Euphorbia, Haworthia, Ctenanthe, Opuntia, Codiaeum, Anthurium.",
+      "dates": [
+        "2026-06-21"
+      ],
+      "spaceType": "two",
+      "bio": "We have been doing pop-ups for 5 years with a variety of businesses, but we have always wanted to find a community with other plant-related businesses. The NY Plant Market seems like a fun and welcoming space to find our community."
+    },
+    {
+      "businessName": "Odd Botany",
+      "contactName": "Bex Claire Hamell",
+      "socialMedia": "www.instagram.com/odd.botany",
+      "website": "",
+      "categories": [
+        "houseplants",
+        "growing_media"
+      ],
+      "products": "Certified nursery located in Philly specializing in species begonias, gesneriads, orchids with interesting foliage, Melastomataceae, Pinguicula, iridescent plants, terrarium plants, and terrarium supplies. I strive to offer beautifully grown rare plants at accessible prices, with most items priced between $15 and $35. The majority of plants I offer are propagated from my personal collection.",
+      "dates": [
+        "2026-07-19"
+      ],
+      "spaceType": "one",
+      "bio": "My friend Aaron told me you were looking for more vendors for July! But seriously I just really like vending at plant events where I can talk to like-minded plant nerds, and help match people with the perfect plant for their interests and conditions."
     }
   ]
 }
