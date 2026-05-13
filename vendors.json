@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "publishedAt": "2026-05-08T12:31:28.856Z",
+  "publishedAt": "2026-05-13T19:44:21.965Z",
   "marketDates": [
     {
       "id": "2026-04-19",
@@ -879,9 +879,7 @@
       ],
       "products": "April - heirloom pansy/viola six packs + mason jar bouquets (narcissi, hyacinth, tulips, dutch iris); May - ranunculus and spring flower bouquets; October - dahlia bunches and mini dried flower pumpkins.",
       "dates": [
-        "2026-04-19",
-        "2026-05-24",
-        "2026-10-18"
+        "2026-04-19"
       ],
       "spaceType": "one",
       "bio": "Petals to the People is a human-scale flower farm focused on regenerative growing practices. 2026 is its first year. I farm on leased land in Princeton, NJ but sell my flowers exclusively to New York City and am based in Brooklyn. I'd love to be a part of the plant market as a way to introduce myself to this community of like-minded plant and flower lovers. I believe I'll bring something a little bit different to the plant market!"
@@ -1073,6 +1071,25 @@
       "bio": "I have amazing, unique plants from Ecuador and do lots of plant shows around the county. I live in New York and would love to be more involved in the plant community in my own back yard. I plan to open a store in NYC in the very near future."
     },
     {
+      "businessName": "The Draper Baker",
+      "contactName": "Charliee Draper",
+      "socialMedia": "@Thedraperbaker",
+      "website": "",
+      "categories": [
+        "food_bev"
+      ],
+      "products": "Classic size cookies and 6oz layered cookie jars",
+      "dates": [
+        "2026-06-21",
+        "2026-07-19",
+        "2026-08-23",
+        "2026-09-20",
+        "2026-10-18"
+      ],
+      "spaceType": "one",
+      "bio": "We’d love the opportunity to be a vendor at your plant event because it combines two things we genuinely love: plants and community. My wife has a real passion for plants and has attended many plant events, which inspired us to bring our cookie business into a space she already enjoys and supports. We’ve noticed that guests often spend hours shopping, browsing, and socializing at these events, and having quality desserts or snacks available adds to the overall experience. Our brand focuses on thoughtful, high-quality desserts with a clean and welcoming presentation, and we believe our setup would complement the event perfectly while giving guests something sweet to enjoy during their visit."
+    },
+    {
       "businessName": "Arellano Pandesal (dba, Arellano Productions LLC)",
       "contactName": "Kian Ahmadian",
       "socialMedia": "https://pandesal.nyc/",
@@ -1116,7 +1133,8 @@
       ],
       "products": "We usually curate a large variety of common and uncommon (not rare) plants such as, Dracaena, Aglaonema, Monstera, Philodendron, Peperomia, Trafescantia, Maranta, Calathea/Goeppertia, Begonia, Alocasia, Epipremnum/Pothos, Ficus, Anthurium, Money Tree, Snake Plant, Spider Plant, Umbrella Tree, Succulents, Cacti, Fern, Palm, Scindapsus, African Violet, Spathyphyllum, Bird of Paradie, String of Things (pearls, bananas, spaces, hearts), Zamioculcas, Pilea, Sansevieria, Yacca Tree, Crassula Ovata, Euphorbia, Haworthia, Ctenanthe, Opuntia, Codiaeum, Anthurium.",
       "dates": [
-        "2026-06-21"
+        "2026-06-21",
+        "2026-05-24"
       ],
       "spaceType": "two",
       "bio": "We have been doing pop-ups for 5 years with a variety of businesses, but we have always wanted to find a community with other plant-related businesses. The NY Plant Market seems like a fun and welcoming space to find our community."
@@ -1132,10 +1150,32 @@
       ],
       "products": "Certified nursery located in Philly specializing in species begonias, gesneriads, orchids with interesting foliage, Melastomataceae, Pinguicula, iridescent plants, terrarium plants, and terrarium supplies. I strive to offer beautifully grown rare plants at accessible prices, with most items priced between $15 and $35. The majority of plants I offer are propagated from my personal collection.",
       "dates": [
-        "2026-07-19"
+        "2026-07-19",
+        "2026-08-23"
       ],
       "spaceType": "one",
       "bio": "My friend Aaron told me you were looking for more vendors for July! But seriously I just really like vending at plant events where I can talk to like-minded plant nerds, and help match people with the perfect plant for their interests and conditions."
+    },
+    {
+      "businessName": "The Propagation Palace",
+      "contactName": "Alexis Monaco",
+      "socialMedia": "https://www.instagram.com/thepropagationpalace/",
+      "website": "",
+      "categories": [
+        "houseplants",
+        "kits"
+      ],
+      "products": "handmade ‘PROP’D Plant magnets, DIY on site terrariums and take home kits, variegated strings of things, variegated houseplants, succulents, cactus",
+      "dates": [
+        "2026-05-24",
+        "2026-06-21",
+        "2026-07-19",
+        "2026-08-23",
+        "2026-09-20",
+        "2026-10-18"
+      ],
+      "spaceType": "two",
+      "bio": "Plant markets are where my kind of people reside! I love making new friends and sharing the love of plants with our community. I run my business out of my apartment in New York so markets like this is what makes my small business world go round! I’d love to be apart of it in any capaticity you’d have me!"
     }
   ]
 }
