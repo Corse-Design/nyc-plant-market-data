@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "publishedAt": "2026-05-13T19:45:02.283Z",
+  "publishedAt": "2026-05-20T18:41:09.166Z",
   "marketDates": [
     {
       "id": "2026-04-19",
@@ -403,27 +403,6 @@
       "bio": "Fundraising for our cause and networking with plant lovers."
     },
     {
-      "businessName": "RootedTogether ByThreeSisters",
-      "contactName": "Selin Ogultekin",
-      "socialMedia": "https://palmstreet.app/u/RootedTogether_ByThreeSisters",
-      "website": "https://www.rootedtogetherbythreesisters.com/",
-      "categories": [
-        "houseplants",
-        "growing_media"
-      ],
-      "products": "Houseplants, growing media",
-      "dates": [
-        "2026-05-24",
-        "2026-06-21",
-        "2026-07-19",
-        "2026-08-23",
-        "2026-09-20",
-        "2026-10-18"
-      ],
-      "spaceType": "two",
-      "bio": "We're three sisters based in Bay Ridge, Brooklyn, offering curated plants, fresh imports, and a whole lot of love. Until now, we've been selling exclusively online through Palmstreet, but our favorite part of this journey has been meeting our local pickup customers in person. So many of them tell us the same thing — they don't have enough plant friends! We'd love to change that. Our goal is to bring our planty love and knowledge beyond Bay Ridge and connect with the entire NYC plant community. We're not just selling plants. We're building community."
-    },
-    {
       "businessName": "Plantstop US",
       "contactName": "Fnu Untung",
       "socialMedia": "https://www.instagram.com/plantstop.us",
@@ -777,6 +756,21 @@
       ],
       "spaceType": "one",
       "bio": "Making space for more plants ;)"
+    },
+    {
+      "businessName": "Jungle Room Plants",
+      "contactName": "Nate Jenswold",
+      "socialMedia": "https://www.instagram.com/jungle_room_plants/",
+      "website": "",
+      "categories": [
+        "other"
+      ],
+      "products": "I am a small plant design & care company! Not sure if it's worth having me at a booth, but I'd love to network with all of the plant lovers in the community.",
+      "dates": [
+        "2026-04-19"
+      ],
+      "spaceType": "one",
+      "bio": "Jungle Room Plants was created from a belief that every New Yorker deserves a little more nature in their everyday life. What started as a mission to brighten one small NYC apartment has grown into helping homes and offices across the city feel more alive through thoughtful plant design and care.\n\nWe’re excited to be part of NY Plant Market because it brings together the exact community we love - local growers, plant enthusiasts, and people who simply want to make their spaces greener. Being part of a movement that reconnects New Yorkers with nature feels deeply aligned with our purpose, and we’re grateful to help make the city a little greener, one space at a time."
     },
     {
       "businessName": "Nena’s Garden",
@@ -1136,6 +1130,21 @@
       "bio": "My friend Aaron told me you were looking for more vendors for July! But seriously I just really like vending at plant events where I can talk to like-minded plant nerds, and help match people with the perfect plant for their interests and conditions."
     },
     {
+      "businessName": "Tea and Milk & Matcha Reserve",
+      "contactName": "Mathew Wong",
+      "socialMedia": "www.instagram.com/teaandmilkny",
+      "website": "",
+      "categories": [
+        "other"
+      ],
+      "products": "Matcha tea lattes and bubble tea",
+      "dates": [
+        "2026-06-21"
+      ],
+      "spaceType": "two",
+      "bio": "We would love to quench the thirst of all the vendors and market go-ers!"
+    },
+    {
       "businessName": "The Propagation Palace",
       "contactName": "Alexis Monaco",
       "socialMedia": "https://www.instagram.com/thepropagationpalace/",
@@ -1155,6 +1164,55 @@
       ],
       "spaceType": "two",
       "bio": "Plant markets are where my kind of people reside! I love making new friends and sharing the love of plants with our community. I run my business out of my apartment in New York so markets like this is what makes my small business world go round! I’d love to be apart of it in any capaticity you’d have me!"
+    },
+    {
+      "businessName": "Studio Humelim",
+      "contactName": "Laura Smith",
+      "socialMedia": "@studiohumelim",
+      "website": "",
+      "categories": [
+        "garden"
+      ],
+      "products": "I have over 50 varieties of native plants that I can bring, and I’m always bringing new species into stock.",
+      "dates": [
+        "2026-06-21",
+        "2026-07-19",
+        "2026-08-23",
+        "2026-09-20",
+        "2026-10-18"
+      ],
+      "spaceType": "one",
+      "bio": "There’s a real lack of availability of native plants in the city, and so much interest. My Bed Stuy shop gets mobbed whenever we’re open, and I would love to expand to other locations!"
+    },
+    {
+      "businessName": "JuliaofQueens",
+      "contactName": "Julia Parrington",
+      "socialMedia": "https://www.facebook.com/marketplace/profile/100000555364089/",
+      "website": "",
+      "categories": [
+        "houseplants"
+      ],
+      "products": "hoyas, philodendrons, mostly aroids",
+      "dates": [
+        "2026-06-21"
+      ],
+      "spaceType": "one",
+      "bio": "It's yet another fun way to share plant love in the city."
+    },
+    {
+      "businessName": "Florev",
+      "contactName": "Tiago Estrada",
+      "socialMedia": "Florevive.com",
+      "website": "",
+      "categories": [
+        "accessories"
+      ],
+      "products": "Biodegradable, natural hydration product",
+      "dates": [
+        "2026-05-24"
+      ],
+      "spaceType": "one",
+      "bio": "Love plants, I'm a New Yorker"
     }
   ]
 }
