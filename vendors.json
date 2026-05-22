@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "publishedAt": "2026-05-20T18:41:09.166Z",
+  "publishedAt": "2026-05-22T18:57:23.840Z",
   "marketDates": [
     {
       "id": "2026-04-19",
@@ -9,9 +9,9 @@
       "special": false
     },
     {
-      "id": "2026-05-24",
-      "label": "May 24",
-      "full": "May 24, 2026",
+      "id": "2026-05-31",
+      "label": "May 31",
+      "full": "May 31, 2026",
       "special": false
     },
     {
@@ -59,7 +59,7 @@
       "products": "Ceramic planters, rare cacti",
       "dates": [
         "2026-04-19",
-        "2026-05-24",
+        "2026-05-31",
         "2026-06-21",
         "2026-07-19",
         "2026-08-23",
@@ -80,7 +80,7 @@
       ],
       "products": "Houseplants, aquaponics kits",
       "dates": [
-        "2026-05-24",
+        "2026-05-31",
         "2026-06-21",
         "2026-07-19"
       ],
@@ -132,7 +132,6 @@
       ],
       "products": "Ceramics and pottery",
       "dates": [
-        "2026-06-21",
         "2026-08-23",
         "2026-10-18"
       ],
@@ -149,7 +148,7 @@
       ],
       "products": "Herbal products",
       "dates": [
-        "2026-05-24",
+        "2026-05-31",
         "2026-06-21",
         "2026-08-23"
       ],
@@ -167,7 +166,7 @@
       "products": "Rare tropical houseplants",
       "dates": [
         "2026-04-19",
-        "2026-05-24",
+        "2026-05-31",
         "2026-06-21",
         "2026-07-19",
         "2026-08-23",
@@ -189,7 +188,7 @@
       "products": "Houseplants and accessories",
       "dates": [
         "2026-04-19",
-        "2026-05-24",
+        "2026-05-31",
         "2026-06-21",
         "2026-07-19",
         "2026-08-23",
@@ -211,7 +210,7 @@
       "products": "Orchid society, education",
       "dates": [
         "2026-04-19",
-        "2026-05-24",
+        "2026-05-31",
         "2026-08-23"
       ],
       "spaceType": "community",
@@ -229,9 +228,9 @@
       ],
       "products": "Shade houseplants, accessories",
       "dates": [
-        "2026-05-24",
         "2026-07-19",
-        "2026-09-20"
+        "2026-09-20",
+        "2026-06-21"
       ],
       "spaceType": "one",
       "bio": "Interested in being part of the plant community and sharing our passion for plants and design."
@@ -249,7 +248,7 @@
       ],
       "products": "Houseplants, accessories, media",
       "dates": [
-        "2026-05-24",
+        "2026-05-31",
         "2026-06-21",
         "2026-08-23",
         "2026-09-20",
@@ -269,7 +268,7 @@
       "products": "Anthuriums",
       "dates": [
         "2026-04-19",
-        "2026-05-24",
+        "2026-05-31",
         "2026-06-21",
         "2026-07-19"
       ],
@@ -287,7 +286,7 @@
       "products": "Houseplants",
       "dates": [
         "2026-04-19",
-        "2026-05-24",
+        "2026-05-31",
         "2026-06-21",
         "2026-07-19",
         "2026-09-20",
@@ -309,7 +308,7 @@
       "products": "Houseplants, accessories",
       "dates": [
         "2026-04-19",
-        "2026-05-24",
+        "2026-05-31",
         "2026-06-21",
         "2026-07-19",
         "2026-08-23",
@@ -332,7 +331,7 @@
       "products": "Cacti, succulents, accessories",
       "dates": [
         "2026-04-19",
-        "2026-05-24",
+        "2026-05-31",
         "2026-06-21",
         "2026-07-19",
         "2026-08-23",
@@ -356,7 +355,7 @@
       "products": "Houseplants, accessories, media, kits",
       "dates": [
         "2026-04-19",
-        "2026-05-24",
+        "2026-05-31",
         "2026-06-21",
         "2026-07-19",
         "2026-08-23",
@@ -413,7 +412,7 @@
       "products": "Rare Indonesian houseplants",
       "dates": [
         "2026-04-19",
-        "2026-05-24",
+        "2026-05-31",
         "2026-06-21",
         "2026-07-19",
         "2026-08-23",
@@ -438,7 +437,7 @@
         "2026-08-23",
         "2026-09-20",
         "2026-10-18",
-        "2026-05-24"
+        "2026-05-31"
       ],
       "spaceType": "two",
       "bio": "We offer a wide variety of sansevieria that we would love to share with the NYC community and are excited to be part of this new event!"
@@ -458,7 +457,7 @@
       "products": "Houseplants, accessories, media, kits",
       "dates": [
         "2026-04-19",
-        "2026-05-24",
+        "2026-05-31",
         "2026-06-21",
         "2026-07-19",
         "2026-09-20",
@@ -479,7 +478,7 @@
       ],
       "products": "Houseplants, media, kits",
       "dates": [
-        "2026-05-24",
+        "2026-05-31",
         "2026-06-21",
         "2026-07-19",
         "2026-08-23",
@@ -501,7 +500,7 @@
       "products": "Houseplants, accessories",
       "dates": [
         "2026-04-19",
-        "2026-05-24",
+        "2026-05-31",
         "2026-06-21",
         "2026-07-19",
         "2026-08-23",
@@ -539,7 +538,7 @@
       ],
       "products": "Full garden & plant supplies",
       "dates": [
-        "2026-05-24",
+        "2026-05-31",
         "2026-06-21",
         "2026-07-19",
         "2026-09-20",
@@ -561,7 +560,7 @@
       "products": "Houseplants, accessories, media",
       "dates": [
         "2026-04-19",
-        "2026-05-24",
+        "2026-05-31",
         "2026-10-18",
         "2026-06-21"
       ],
@@ -615,7 +614,7 @@
       ],
       "products": "Rare & variegated tropicals",
       "dates": [
-        "2026-05-24",
+        "2026-05-31",
         "2026-06-21",
         "2026-07-19",
         "2026-08-23",
@@ -638,7 +637,7 @@
       "products": "Houseplants, vintage planters",
       "dates": [
         "2026-04-19",
-        "2026-05-24",
+        "2026-05-31",
         "2026-06-21",
         "2026-09-20",
         "2026-10-18"
@@ -658,7 +657,6 @@
       "products": "Houseplants, accessories",
       "dates": [
         "2026-04-19",
-        "2026-05-24",
         "2026-07-19",
         "2026-08-23",
         "2026-10-18",
@@ -680,7 +678,7 @@
       "products": "Houseplants, accessories, crystals",
       "dates": [
         "2026-04-19",
-        "2026-05-24",
+        "2026-05-31",
         "2026-06-21",
         "2026-08-23",
         "2026-10-18"
@@ -732,7 +730,7 @@
       "products": "A variety of native plants grown from seed. Current list at https://www.queensnynativeplants.com",
       "dates": [
         "2026-04-19",
-        "2026-05-24",
+        "2026-05-31",
         "2026-06-21",
         "2026-09-20",
         "2026-10-18"
@@ -783,7 +781,7 @@
       "products": "Cement planters, 3D Printed planters, resin planters, \nSucculents, cactus, bamboos",
       "dates": [
         "2026-04-19",
-        "2026-05-24",
+        "2026-05-31",
         "2026-06-21",
         "2026-07-19",
         "2026-08-23",
@@ -819,7 +817,7 @@
       "products": "I sell mostly Epis, specializing in Japanese Teruno Pothos such as: Colorado Constellation, Poonsin, Shalala, Lima Compacta, Amazon, Victory/Camouflage, Omelette, Green Scratch, Cast, Valencia, Himiko, Carnival, etc",
       "dates": [
         "2026-04-19",
-        "2026-05-24"
+        "2026-05-31"
       ],
       "spaceType": "one",
       "bio": "To reach new customers"
@@ -834,7 +832,7 @@
       ],
       "products": "Alocasia, monstera, philodendron, anthurium, epipremnum",
       "dates": [
-        "2026-05-24",
+        "2026-05-31",
         "2026-06-21",
         "2026-08-23",
         "2026-10-18"
@@ -868,7 +866,7 @@
       "products": "Anthurium,alocasia,philodendron,peperomia,monstera,pothos,hoyas",
       "dates": [
         "2026-04-19",
-        "2026-05-24",
+        "2026-05-31",
         "2026-06-21",
         "2026-07-19",
         "2026-08-23",
@@ -904,7 +902,7 @@
       ],
       "products": "Monstera, philodendron, pothos, alocasia",
       "dates": [
-        "2026-05-24",
+        "2026-05-31",
         "2026-08-23"
       ],
       "spaceType": "one",
@@ -921,7 +919,7 @@
       "products": "Trying to market my product to plant care specialists who want to make $ for taking care of plants.",
       "dates": [
         "2026-04-19",
-        "2026-05-24",
+        "2026-05-31",
         "2026-06-21",
         "2026-09-20",
         "2026-10-18"
@@ -955,7 +953,7 @@
       ],
       "products": "Common to rare orchids \n2 inch varieties from succulents to hoyas \nAlocasia \nMonstera\nPhilodendron \nAlready made terrariums",
       "dates": [
-        "2026-05-24",
+        "2026-05-31",
         "2026-07-19",
         "2026-08-23"
       ],
@@ -974,7 +972,7 @@
       ],
       "products": "Tropical plants, variegated alocasia, philodendron, monstera",
       "dates": [
-        "2026-05-24",
+        "2026-05-31",
         "2026-06-21",
         "2026-07-19",
         "2026-08-23",
@@ -996,7 +994,7 @@
       ],
       "products": "Alocasia, monstera , philodendron, some rare succulents",
       "dates": [
-        "2026-05-24"
+        "2026-05-31"
       ],
       "spaceType": "one",
       "bio": "I want to share my growing experience with plant lovers."
@@ -1013,7 +1011,7 @@
       ],
       "products": "Aroids and plant accessories",
       "dates": [
-        "2026-05-24",
+        "2026-05-31",
         "2026-06-21",
         "2026-07-19",
         "2026-08-23",
@@ -1033,7 +1031,7 @@
       ],
       "products": "Anthuriums and Philodendrons",
       "dates": [
-        "2026-05-24",
+        "2026-05-31",
         "2026-06-21",
         "2026-07-19",
         "2026-08-23",
@@ -1072,7 +1070,7 @@
       ],
       "products": "Filipino bread and pastries",
       "dates": [
-        "2026-05-24"
+        "2026-06-21"
       ],
       "spaceType": "one",
       "bio": "Pandesal and plants are a perfect pairing"
@@ -1107,7 +1105,7 @@
       "products": "We usually curate a large variety of common and uncommon (not rare) plants such as, Dracaena, Aglaonema, Monstera, Philodendron, Peperomia, Trafescantia, Maranta, Calathea/Goeppertia, Begonia, Alocasia, Epipremnum/Pothos, Ficus, Anthurium, Money Tree, Snake Plant, Spider Plant, Umbrella Tree, Succulents, Cacti, Fern, Palm, Scindapsus, African Violet, Spathyphyllum, Bird of Paradie, String of Things (pearls, bananas, spaces, hearts), Zamioculcas, Pilea, Sansevieria, Yacca Tree, Crassula Ovata, Euphorbia, Haworthia, Ctenanthe, Opuntia, Codiaeum, Anthurium.",
       "dates": [
         "2026-06-21",
-        "2026-05-24"
+        "2026-05-31"
       ],
       "spaceType": "two",
       "bio": "We have been doing pop-ups for 5 years with a variety of businesses, but we have always wanted to find a community with other plant-related businesses. The NY Plant Market seems like a fun and welcoming space to find our community."
@@ -1155,7 +1153,7 @@
       ],
       "products": "handmade ‘PROP’D Plant magnets, DIY on site terrariums and take home kits, variegated strings of things, variegated houseplants, succulents, cactus",
       "dates": [
-        "2026-05-24",
+        "2026-05-31",
         "2026-06-21",
         "2026-07-19",
         "2026-08-23",
@@ -1194,7 +1192,7 @@
       ],
       "products": "hoyas, philodendrons, mostly aroids",
       "dates": [
-        "2026-06-21"
+        "2026-05-31"
       ],
       "spaceType": "one",
       "bio": "It's yet another fun way to share plant love in the city."
@@ -1209,7 +1207,7 @@
       ],
       "products": "Biodegradable, natural hydration product",
       "dates": [
-        "2026-05-24"
+        "2026-05-31"
       ],
       "spaceType": "one",
       "bio": "Love plants, I'm a New Yorker"
