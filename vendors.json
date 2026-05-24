@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "publishedAt": "2026-05-24T15:47:35.852Z",
+  "publishedAt": "2026-05-24T15:48:14.295Z",
   "marketDates": [
     {
       "id": "2026-04-19",
@@ -1214,7 +1214,7 @@
     {
       "businessName": "Florev",
       "contactName": "Tiago Estrada",
-      "socialMedia": "Florevive.com",
+      "socialMedia": "http://Florevive.com",
       "website": "",
       "categories": [
         "accessories"
