@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "publishedAt": "2026-05-22T23:11:29.012Z",
+  "publishedAt": "2026-05-24T15:47:35.852Z",
   "marketDates": [
     {
       "id": "2026-04-19",
@@ -210,8 +210,8 @@
       "products": "Orchid society, education",
       "dates": [
         "2026-04-19",
-        "2026-05-31",
-        "2026-08-23"
+        "2026-08-23",
+        "2026-05-31"
       ],
       "spaceType": "community",
       "bio": "Outreach and membership growth for the orchid society."
@@ -436,8 +436,7 @@
         "2026-04-19",
         "2026-08-23",
         "2026-09-20",
-        "2026-10-18",
-        "2026-05-31"
+        "2026-10-18"
       ],
       "spaceType": "two",
       "bio": "We offer a wide variety of sansevieria that we would love to share with the NYC community and are excited to be part of this new event!"
@@ -837,7 +836,7 @@
         "2026-08-23",
         "2026-10-18"
       ],
-      "spaceType": "one",
+      "spaceType": "two",
       "bio": "I started tissue culturing and growing plants in the Hudson valley to sell within the NYC metro area. The goal was to provide people in this area access to plants without the bigger markups required when importing everything."
     },
     {
@@ -1161,6 +1160,22 @@
       ],
       "spaceType": "two",
       "bio": "Plant markets are where my kind of people reside! I love making new friends and sharing the love of plants with our community. I run my business out of my apartment in New York so markets like this is what makes my small business world go round! I’d love to be apart of it in any capaticity you’d have me!"
+    },
+    {
+      "businessName": "IRUSU creation",
+      "contactName": "LIZETH CASTIBLANCO",
+      "socialMedia": "https://irusucreation.com/",
+      "website": "",
+      "categories": [
+        "herbal"
+      ],
+      "products": "Functional pieces crafted from real flowers\ncoastes\ntrays \nsoft trays",
+      "dates": [
+        "2026-07-19",
+        "2026-05-31"
+      ],
+      "spaceType": "one",
+      "bio": "webside"
     },
     {
       "businessName": "Studio Humelim",
