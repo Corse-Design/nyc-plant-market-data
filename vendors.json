@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "publishedAt": "2026-05-24T15:49:33.053Z",
+  "publishedAt": "2026-05-28T14:46:14.341Z",
   "marketDates": [
     {
       "id": "2026-04-19",
@@ -148,7 +148,6 @@
       ],
       "products": "Herbal products",
       "dates": [
-        "2026-05-31",
         "2026-06-21",
         "2026-08-23"
       ],
@@ -537,7 +536,6 @@
       ],
       "products": "Full garden & plant supplies",
       "dates": [
-        "2026-05-31",
         "2026-06-21",
         "2026-07-19",
         "2026-09-20",
@@ -816,7 +814,8 @@
       "products": "I sell mostly Epis, specializing in Japanese Teruno Pothos such as: Colorado Constellation, Poonsin, Shalala, Lima Compacta, Amazon, Victory/Camouflage, Omelette, Green Scratch, Cast, Valencia, Himiko, Carnival, etc",
       "dates": [
         "2026-04-19",
-        "2026-10-18"
+        "2026-10-18",
+        "2026-05-31"
       ],
       "spaceType": "one",
       "bio": "To reach new customers"
@@ -1053,7 +1052,8 @@
         "2026-07-19",
         "2026-08-23",
         "2026-09-20",
-        "2026-10-18"
+        "2026-10-18",
+        "2026-05-31"
       ],
       "spaceType": "one",
       "bio": "We’d love the opportunity to be a vendor at your plant event because it combines two things we genuinely love: plants and community. My wife has a real passion for plants and has attended many plant events, which inspired us to bring our cookie business into a space she already enjoys and supports. We’ve noticed that guests often spend hours shopping, browsing, and socializing at these events, and having quality desserts or snacks available adds to the overall experience. Our brand focuses on thoughtful, high-quality desserts with a clean and welcoming presentation, and we believe our setup would complement the event perfectly while giving guests something sweet to enjoy during their visit."
@@ -1210,6 +1210,22 @@
       ],
       "spaceType": "one",
       "bio": "It's yet another fun way to share plant love in the city."
+    },
+    {
+      "businessName": "Greenus and Species Botanicals",
+      "contactName": "Joseph Krobot",
+      "socialMedia": "none yet , just opened a month ago",
+      "website": "",
+      "categories": [
+        "garden"
+      ],
+      "products": "Cold Hardy Cut Flower Annuals, Warm loving Cut Flower annuals and Biennials  and Natives grown from seed.",
+      "dates": [
+        "2026-05-31",
+        "2026-07-19"
+      ],
+      "spaceType": "two",
+      "bio": "To get my new business out of the growhouse and into the lives of peoole who appreciate plants grown from seed with love and care. And to meet other plant nerds ofcourse !"
     },
     {
       "businessName": "Florev",
