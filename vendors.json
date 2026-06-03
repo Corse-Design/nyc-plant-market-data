@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "publishedAt": "2026-05-28T14:47:12.325Z",
+  "publishedAt": "2026-06-03T21:19:16.892Z",
   "marketDates": [
     {
       "id": "2026-04-19",
@@ -596,7 +596,9 @@
       "products": "Carnivorous plants, accessories",
       "dates": [
         "2026-09-20",
-        "2026-10-18"
+        "2026-10-18",
+        "2026-07-19",
+        "2026-08-23"
       ],
       "spaceType": "one",
       "bio": "I want to see local interest in carnivorous plants and get an opportunity to show people my plants."
@@ -992,7 +994,11 @@
       ],
       "products": "Alocasia, monstera , philodendron, some rare succulents",
       "dates": [
-        "2026-05-31"
+        "2026-05-31",
+        "2026-06-21",
+        "2026-07-19",
+        "2026-10-18",
+        "2026-09-20"
       ],
       "spaceType": "one",
       "bio": "I want to share my growing experience with plant lovers."
@@ -1010,7 +1016,6 @@
       "products": "Aroids and plant accessories",
       "dates": [
         "2026-05-31",
-        "2026-06-21",
         "2026-07-19",
         "2026-08-23",
         "2026-09-20",
@@ -1057,21 +1062,6 @@
       ],
       "spaceType": "one",
       "bio": "We’d love the opportunity to be a vendor at your plant event because it combines two things we genuinely love: plants and community. My wife has a real passion for plants and has attended many plant events, which inspired us to bring our cookie business into a space she already enjoys and supports. We’ve noticed that guests often spend hours shopping, browsing, and socializing at these events, and having quality desserts or snacks available adds to the overall experience. Our brand focuses on thoughtful, high-quality desserts with a clean and welcoming presentation, and we believe our setup would complement the event perfectly while giving guests something sweet to enjoy during their visit."
-    },
-    {
-      "businessName": "Arellano Pandesal (dba, Arellano Productions LLC)",
-      "contactName": "Kian Ahmadian",
-      "socialMedia": "https://pandesal.nyc/",
-      "website": "",
-      "categories": [
-        "food_bev"
-      ],
-      "products": "Filipino bread and pastries",
-      "dates": [
-        "2026-06-21"
-      ],
-      "spaceType": "one",
-      "bio": "Pandesal and plants are a perfect pairing"
     },
     {
       "businessName": "Desert West",
@@ -1206,7 +1196,12 @@
       ],
       "products": "hoyas, philodendrons, mostly aroids",
       "dates": [
-        "2026-05-31"
+        "2026-05-31",
+        "2026-06-21",
+        "2026-07-19",
+        "2026-08-23",
+        "2026-09-20",
+        "2026-10-18"
       ],
       "spaceType": "one",
       "bio": "It's yet another fun way to share plant love in the city."
@@ -1241,6 +1236,22 @@
       ],
       "spaceType": "one",
       "bio": "Love plants, I'm a New Yorker"
+    },
+    {
+      "businessName": "Bonsai Bar",
+      "contactName": "Jessica Cauttero",
+      "socialMedia": "@thebonsaibar, @bonsaibar_NYC",
+      "website": "",
+      "categories": [
+        "accessories"
+      ],
+      "products": "Dwarf Jade (p. Afra) bonsai/prebonsai, Dwarf umbrella (schefflera) bonsai/prebonsai, mini bonsai, potentially ficus bonsai, bonsai supplies (pots, soil, wires, kits)",
+      "dates": [
+        "2026-07-19",
+        "2026-08-23"
+      ],
+      "spaceType": "one",
+      "bio": "We have been doing pop-up bonsai classes in NYC for 3+ years and we want to grow our brand awareness!"
     }
   ]
 }
