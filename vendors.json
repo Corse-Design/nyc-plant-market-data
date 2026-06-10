@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "publishedAt": "2026-06-03T21:19:16.892Z",
+  "publishedAt": "2026-06-10T11:34:56.641Z",
   "marketDates": [
     {
       "id": "2026-04-19",
@@ -286,7 +286,6 @@
       "dates": [
         "2026-04-19",
         "2026-05-31",
-        "2026-06-21",
         "2026-07-19",
         "2026-09-20",
         "2026-10-18",
@@ -378,27 +377,6 @@
       ],
       "spaceType": "one",
       "bio": "We'd love the opportunity to share our natural soaps with the NY Plant Market community! All of our soaps are made from plant oils, our candles are made from soy wax, and each purchase helps plant one tree with a donation to onetreeplanted.org. Together we can keep people clean and keep the earth green."
-    },
-    {
-      "businessName": "Green and Blue Eco Care",
-      "contactName": "Simone Marques",
-      "socialMedia": "https://www.instagram.com/greenandblueecocare",
-      "website": "",
-      "categories": [
-        "society",
-        "other"
-      ],
-      "products": "Eco mugs, bottles, community",
-      "dates": [
-        "2026-04-19",
-        "2026-06-21",
-        "2026-07-19",
-        "2026-08-23",
-        "2026-09-20",
-        "2026-10-18"
-      ],
-      "spaceType": "one",
-      "bio": "Fundraising for our cause and networking with plant lovers."
     },
     {
       "businessName": "Plantstop US",
@@ -637,7 +615,6 @@
       "dates": [
         "2026-04-19",
         "2026-05-31",
-        "2026-06-21",
         "2026-09-20",
         "2026-10-18"
       ],
@@ -1034,7 +1011,6 @@
       ],
       "products": "Anthuriums and Philodendrons",
       "dates": [
-        "2026-06-21",
         "2026-07-19",
         "2026-08-23",
         "2026-09-20",
@@ -1232,10 +1208,30 @@
       ],
       "products": "Biodegradable, natural hydration product",
       "dates": [
-        "2026-05-31"
+        "2026-05-31",
+        "2026-06-21",
+        "2026-07-19",
+        "2026-08-23",
+        "2026-09-20"
       ],
       "spaceType": "one",
       "bio": "Love plants, I'm a New Yorker"
+    },
+    {
+      "businessName": "Daniel Kopulos",
+      "contactName": "Daniel Kopulos",
+      "socialMedia": "",
+      "website": "",
+      "categories": [
+        "houseplants"
+      ],
+      "products": "Philodendron, Alocasia, others",
+      "dates": [
+        "2026-06-21",
+        "2026-07-19"
+      ],
+      "spaceType": "one",
+      "bio": "Have many pants to share and to connect with others in the community"
     },
     {
       "businessName": "Bonsai Bar",
@@ -1252,6 +1248,46 @@
       ],
       "spaceType": "one",
       "bio": "We have been doing pop-up bonsai classes in NYC for 3+ years and we want to grow our brand awareness!"
+    },
+    {
+      "businessName": "Mari Had A Little Plant",
+      "contactName": "Marianne Rocha",
+      "socialMedia": "@mari.had.a.little.plant",
+      "website": "",
+      "categories": [
+        "houseplants",
+        "accessories",
+        "growing_media",
+        "kits"
+      ],
+      "products": "Cuttings of plants, alocasia pups, some TC plants, corms, 3d printed corm riser, pon mix, fluval- perlite mix, tc acclimation dome",
+      "dates": [
+        "2026-07-19",
+        "2026-08-23",
+        "2026-09-20",
+        "2026-10-18"
+      ],
+      "spaceType": "one",
+      "bio": "I love being part of the plant community. I've met so many amazing and different ppl who all come together for their love of plants. I want to continue to meet people and contribute to the plant community with any knowledge i may have to help another person succeed in their own personal jungle"
+    },
+    {
+      "businessName": "TERRART NYC",
+      "contactName": "Charly Uzcategui",
+      "socialMedia": "@terrartnyc",
+      "website": "",
+      "categories": [
+        "houseplants",
+        "kits"
+      ],
+      "products": "Terrariums, moss walls, terrarium DIY kit",
+      "dates": [
+        "2026-06-21",
+        "2026-07-19",
+        "2026-08-23",
+        "2026-09-20"
+      ],
+      "spaceType": "one",
+      "bio": "Very excited to be part of this plant matket, as small business this is an opportunity to meet new customers, connect with other plant vendors and bring more greenery to NYC."
     }
   ]
 }
