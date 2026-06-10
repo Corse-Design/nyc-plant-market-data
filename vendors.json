@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "publishedAt": "2026-06-10T11:34:56.641Z",
+  "publishedAt": "2026-06-10T12:11:28.642Z",
   "marketDates": [
     {
       "id": "2026-04-19",
@@ -1040,25 +1040,6 @@
       "bio": "We’d love the opportunity to be a vendor at your plant event because it combines two things we genuinely love: plants and community. My wife has a real passion for plants and has attended many plant events, which inspired us to bring our cookie business into a space she already enjoys and supports. We’ve noticed that guests often spend hours shopping, browsing, and socializing at these events, and having quality desserts or snacks available adds to the overall experience. Our brand focuses on thoughtful, high-quality desserts with a clean and welcoming presentation, and we believe our setup would complement the event perfectly while giving guests something sweet to enjoy during their visit."
     },
     {
-      "businessName": "Desert West",
-      "contactName": "Jon Savino",
-      "socialMedia": "@thedesertwest",
-      "website": "",
-      "categories": [
-        "other"
-      ],
-      "products": "Rare cacti, succulents from all over. Cacti, aloes, Haworthia and others.",
-      "dates": [
-        "2026-06-21",
-        "2026-07-19",
-        "2026-08-23",
-        "2026-09-20",
-        "2026-10-18"
-      ],
-      "spaceType": "one",
-      "bio": "I love stewarding plants and sharing with folks about how they grow and where they come from. I also love staging plants and hope folks will find them special just as I do!"
-    },
-    {
       "businessName": "Leila's Plants",
       "contactName": "Mariel Acevedo",
       "socialMedia": "www.instagram.com/leilasplants",
@@ -1216,22 +1197,6 @@
       ],
       "spaceType": "one",
       "bio": "Love plants, I'm a New Yorker"
-    },
-    {
-      "businessName": "Daniel Kopulos",
-      "contactName": "Daniel Kopulos",
-      "socialMedia": "",
-      "website": "",
-      "categories": [
-        "houseplants"
-      ],
-      "products": "Philodendron, Alocasia, others",
-      "dates": [
-        "2026-06-21",
-        "2026-07-19"
-      ],
-      "spaceType": "one",
-      "bio": "Have many pants to share and to connect with others in the community"
     },
     {
       "businessName": "Bonsai Bar",
