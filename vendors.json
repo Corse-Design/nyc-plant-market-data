@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "publishedAt": "2026-06-10T12:11:28.642Z",
+  "publishedAt": "2026-06-14T11:43:20.628Z",
   "marketDates": [
     {
       "id": "2026-04-19",
@@ -1197,6 +1197,57 @@
       ],
       "spaceType": "one",
       "bio": "Love plants, I'm a New Yorker"
+    },
+    {
+      "businessName": "Daniel Kopulos",
+      "contactName": "Daniel Kopulos",
+      "socialMedia": "",
+      "website": "",
+      "categories": [
+        "houseplants"
+      ],
+      "products": "Philodendron, Alocasia, others",
+      "dates": [
+        "2026-06-21",
+        "2026-07-19"
+      ],
+      "spaceType": "one",
+      "bio": "Have many pants to share and to connect with others in the community"
+    },
+    {
+      "businessName": "Host Plant Seeds",
+      "contactName": "Geneva Wirth",
+      "socialMedia": "@hostplant on instagram",
+      "website": "",
+      "categories": [
+        "garden"
+      ],
+      "products": "I have about 20 species for sale \nMonarda fistulosa\nRudbeckia subtomentosa\nAquilegia canadensis\nAsclepias tuberosa\nHelenium autumnale\nLobelia siphilitica\nOneothera biennis\nPenstemon digitalis\nPenstemon mix\nSalvia azurea\nScrophularia marilandica\nVernonia fasciculata\nBaptisia australis\nEragrostis spectabilis\nBouteloua curtipendula\nSporobolus heterolopois\nPenstemon pallidus\nThalictrum dasycarpum\nPrairie Cinquefoil\nAgastache foeniculum\nMonarda bradburiana\nRudbeckia subtomentosa\nHeuchera villosa\nSalvia lyrata\nHeliopsis helianthoides",
+      "dates": [
+        "2026-08-23",
+        "2026-09-20",
+        "2026-10-18"
+      ],
+      "spaceType": "one",
+      "bio": "Love spreading the love about native plants in NYC!"
+    },
+    {
+      "businessName": "Suri & Caya Fiber Art Designs",
+      "contactName": "Michelle Fleet",
+      "socialMedia": "https://www.instagram.com/suriandcaya?igsh=MXB3MWV2aHpwYzFzZA%3D%3D&utm_source=qr",
+      "website": "",
+      "categories": [
+        "houseplants",
+        "accessories"
+      ],
+      "products": "Felted vessels and objects for air plants and succulents",
+      "dates": [
+        "2026-07-19",
+        "2026-08-23",
+        "2026-09-20"
+      ],
+      "spaceType": "one",
+      "bio": "I would like  to be part of NYC Plant Market because the event aligns naturally with the values behind Suri & Caya — craftsmanship, nature, and intentional living. My work is rooted in natural fibers and slow handmade processes, and I believe it connects beautifully with a community that appreciates plants, thoughtful design, and calming spaces.\n\nAs a Brooklyn-based artist, I’m also excited by the opportunity to connect with other local creatives and share my work with an audience that values handmade objects and organic materials."
     },
     {
       "businessName": "Bonsai Bar",
