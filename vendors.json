@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "publishedAt": "2026-06-14T11:43:20.628Z",
+  "publishedAt": "2026-06-19T16:23:03.719Z",
   "marketDates": [
     {
       "id": "2026-04-19",
@@ -269,7 +269,10 @@
         "2026-04-19",
         "2026-05-31",
         "2026-06-21",
-        "2026-07-19"
+        "2026-07-19",
+        "2026-08-23",
+        "2026-09-20",
+        "2026-10-18"
       ],
       "spaceType": "one",
       "bio": "I want to be able to share my own anthurium hybrid creations while also sharing my love for plants!"
@@ -413,7 +416,8 @@
         "2026-04-19",
         "2026-08-23",
         "2026-09-20",
-        "2026-10-18"
+        "2026-10-18",
+        "2026-07-19"
       ],
       "spaceType": "two",
       "bio": "We offer a wide variety of sansevieria that we would love to share with the NYC community and are excited to be part of this new event!"
@@ -932,7 +936,8 @@
       "dates": [
         "2026-05-31",
         "2026-07-19",
-        "2026-08-23"
+        "2026-08-23",
+        "2026-06-21"
       ],
       "spaceType": "two",
       "bio": "I want to be part of NY Plant Market because it brings together a passionate community of plant lovers, collectors, and small businesses in a way that truly celebrates creativity and connection. As the owner of Wild Sage Ranch, I curate unique houseplants and create custom terrariums that act as living art pieces, and I love sharing that vision with people who appreciate both the aesthetic and wellness benefits of plants. I’m especially drawn to the energy and diversity the market attracts, as it’s not just about selling but about building relationships, connecting with other vendors, and creating memorable experiences for customers. I regularly travel for plant events, so opportunities like this mean a lot to me, and I see NY Plant Market as the perfect space to grow my brand while contributing something fresh and inspiring to the community."
