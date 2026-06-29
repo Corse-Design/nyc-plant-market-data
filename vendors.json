@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "publishedAt": "2026-06-19T16:23:03.719Z",
+  "publishedAt": "2026-06-29T21:09:22.926Z",
   "marketDates": [
     {
       "id": "2026-04-19",
@@ -311,7 +311,6 @@
         "2026-04-19",
         "2026-05-31",
         "2026-06-21",
-        "2026-07-19",
         "2026-08-23",
         "2026-09-20",
         "2026-10-18"
@@ -1007,24 +1006,6 @@
       "bio": "Be more active with local communities"
     },
     {
-      "businessName": "Pachamama Plants & Products",
-      "contactName": "Neal Tokarski",
-      "socialMedia": "https://www.instagram.com/pachamamaplants_products",
-      "website": "",
-      "categories": [
-        "houseplants"
-      ],
-      "products": "Anthuriums and Philodendrons",
-      "dates": [
-        "2026-07-19",
-        "2026-08-23",
-        "2026-09-20",
-        "2026-10-18"
-      ],
-      "spaceType": "one",
-      "bio": "I have amazing, unique plants from Ecuador and do lots of plant shows around the county. I live in New York and would love to be more involved in the plant community in my own back yard. I plan to open a store in NYC in the very near future."
-    },
-    {
       "businessName": "The Draper Baker",
       "contactName": "Charliee Draper",
       "socialMedia": "@Thedraperbaker",
@@ -1055,7 +1036,11 @@
       "products": "We usually curate a large variety of common and uncommon (not rare) plants such as, Dracaena, Aglaonema, Monstera, Philodendron, Peperomia, Trafescantia, Maranta, Calathea/Goeppertia, Begonia, Alocasia, Epipremnum/Pothos, Ficus, Anthurium, Money Tree, Snake Plant, Spider Plant, Umbrella Tree, Succulents, Cacti, Fern, Palm, Scindapsus, African Violet, Spathyphyllum, Bird of Paradie, String of Things (pearls, bananas, spaces, hearts), Zamioculcas, Pilea, Sansevieria, Yacca Tree, Crassula Ovata, Euphorbia, Haworthia, Ctenanthe, Opuntia, Codiaeum, Anthurium.",
       "dates": [
         "2026-06-21",
-        "2026-05-31"
+        "2026-05-31",
+        "2026-07-19",
+        "2026-08-23",
+        "2026-09-20",
+        "2026-10-18"
       ],
       "spaceType": "two",
       "bio": "We have been doing pop-ups for 5 years with a variety of businesses, but we have always wanted to find a community with other plant-related businesses. The NY Plant Market seems like a fun and welcoming space to find our community."
@@ -1124,7 +1109,8 @@
       "products": "Functional pieces crafted from real flowers\ncoastes\ntrays \nsoft trays",
       "dates": [
         "2026-07-19",
-        "2026-05-31"
+        "2026-05-31",
+        "2026-08-23"
       ],
       "spaceType": "one",
       "bio": "webside"
@@ -1139,11 +1125,7 @@
       ],
       "products": "I have over 50 varieties of native plants that I can bring, and I’m always bringing new species into stock.",
       "dates": [
-        "2026-06-21",
-        "2026-07-19",
-        "2026-08-23",
-        "2026-09-20",
-        "2026-10-18"
+        "2026-06-21"
       ],
       "spaceType": "one",
       "bio": "There’s a real lack of availability of native plants in the city, and so much interest. My Bed Stuy shop gets mobbed whenever we’re open, and I would love to expand to other locations!"
@@ -1271,6 +1253,23 @@
       "bio": "We have been doing pop-up bonsai classes in NYC for 3+ years and we want to grow our brand awareness!"
     },
     {
+      "businessName": "GOHA",
+      "contactName": "Kieran Collins",
+      "socialMedia": "https://www.instagram.com/gohaplantcare?igsh=NTc4MTIwNjQ2YQ%3D%3D&utm_source=qr",
+      "website": "",
+      "categories": [
+        "accessories"
+      ],
+      "products": "Leaf Sweep 4-in-1 Plant Cleaning Tool",
+      "dates": [
+        "2026-08-23",
+        "2026-09-20",
+        "2026-10-18"
+      ],
+      "spaceType": "one",
+      "bio": "I heard it was great! I am a new small business looking to grow my community and connect with other plant lovers :)"
+    },
+    {
       "businessName": "Mari Had A Little Plant",
       "contactName": "Marianne Rocha",
       "socialMedia": "@mari.had.a.little.plant",
@@ -1309,6 +1308,175 @@
       ],
       "spaceType": "one",
       "bio": "Very excited to be part of this plant matket, as small business this is an opportunity to meet new customers, connect with other plant vendors and bring more greenery to NYC."
+    },
+    {
+      "businessName": "Prop-Shop Plant Supply Co.",
+      "contactName": "Nick Johnson",
+      "socialMedia": "",
+      "website": "",
+      "categories": [
+        "accessories"
+      ],
+      "products": "Propagation glassware, aprons, snips, watering cans & spray bottles, potting supplies (no substrate...yet)",
+      "dates": [
+        "2026-07-19",
+        "2026-08-23",
+        "2026-09-20"
+      ],
+      "spaceType": "one",
+      "bio": "I think it's a great market and I want to do some market research for my new company I started because of the NY Plant Market. You guys make it so accessible to do."
+    },
+    {
+      "businessName": "Cozy Plant Mom",
+      "contactName": "Cheree Martin-Chery",
+      "socialMedia": "https://www.instagram.com/cozyplantmom/",
+      "website": "",
+      "categories": [
+        "houseplants"
+      ],
+      "products": "Rooted cuttings, propagated houseplants, tropical foliage plants, Philodendron, Scindapsus, Pothos, Tradescantia, and other indoor plants.",
+      "dates": [
+        "2026-07-19",
+        "2026-08-23",
+        "2026-09-20"
+      ],
+      "spaceType": "one",
+      "bio": "I want to be part of NY Plant Market because I am passionate about houseplants and plant propagation and would love the opportunity to connect with fellow plant enthusiasts in the NYC community. As a new small plant business, Cozy Plant Mom focuses on sharing rooted cuttings, propagated plants, and the joy of growing indoor plants. I am excited to learn from other vendors, meet customers, and contribute to the welcoming plant community that NY Plant Market has created."
+    },
+    {
+      "businessName": "DBA The Painted Stone Emporium",
+      "contactName": "Erin Howard-Anderson",
+      "socialMedia": "IG: https://www.instagram.com/thepaintedstoneemporium?igsh=ZmZxbGw4d25ucGZ1 FB: https://www.facebook.com/share/1Hje35g4Gh/",
+      "website": "",
+      "categories": [
+        "houseplants"
+      ],
+      "products": "We offer a broad variety of plants, and can adjust as necessary! Some of our specialty plants that tend to do well at plant shows are unusual succulents and cacti. This includes but is not limited to Ghost Cacti, Mermaid Tail Cacti, Frizzle Sizzles, striking Aeoniums, Strings of -- Hearts, Turtles, Pearls, Buttons, Baby Necklace, Coins & more. Our other best sellers are Variegated Alocasia Frydek, Variegated Dragon Scale Mint, Hoya Hearts, Variegated Philodendrons and more. Again, we offer a very broad variety of plants of many varieties and can adjust as necessary.",
+      "dates": [
+        "2026-08-23"
+      ],
+      "spaceType": "two",
+      "bio": "I've heard great things about the NY Plant Market! I vend at plant shows with Plantella and the New England Plant Expo regularly. I discovered you just recently through some of the other vendors at these shows. They've told me your market has a great vibe and is awesome to participate in. I would hope to bring some new and interesting plants to the shows that people would love. Plus I absolutely love participating in plant themed shows in particular, with like-minded plant enthusiasts."
+    },
+    {
+      "businessName": "Houseplant Menageries",
+      "contactName": "Enzo Baeta",
+      "socialMedia": "Https://instagram.com/houseplantmenageries",
+      "website": "",
+      "categories": [
+        "houseplants"
+      ],
+      "products": "Mostly uncommon tropical plants, some very unique. Lots from or in tissue culture and project plants (ugly ducklings)",
+      "dates": [
+        "2026-07-19",
+        "2026-09-20"
+      ],
+      "spaceType": "one",
+      "bio": "I've heard good things about it from fellow vendors at other events, and I have been wanting to spread my reach. It's my understanding that there's a lot of nice people going to this event."
+    },
+    {
+      "businessName": "Elevated Succulents",
+      "contactName": "Paula Puia",
+      "socialMedia": "Elevated_succulents_",
+      "website": "",
+      "categories": [
+        "houseplants",
+        "kits"
+      ],
+      "products": "All types of succulent plants",
+      "dates": [
+        "2026-07-19",
+        "2026-08-23",
+        "2026-09-20"
+      ],
+      "spaceType": "two",
+      "bio": "Offer various succulents from around the world we import"
+    },
+    {
+      "businessName": "Annie's Jungle Shop",
+      "contactName": "Anna Castro",
+      "socialMedia": "Www.instagram.com/anniesjungleshop",
+      "website": "",
+      "categories": [
+        "houseplants",
+        "growing_media"
+      ],
+      "products": "Philodendron, alocasia, scindapsus (rare)",
+      "dates": [
+        "2026-07-19",
+        "2026-08-23",
+        "2026-09-20",
+        "2026-10-18"
+      ],
+      "spaceType": "one",
+      "bio": "Local and its nyc"
+    },
+    {
+      "businessName": "Plant and Play Co.",
+      "contactName": "Danielle Varon",
+      "socialMedia": "@plantandplayco ( IG)",
+      "website": "",
+      "categories": [
+        "houseplants",
+        "accessories"
+      ],
+      "products": "Several succulents (mainly) and other house plants arrangements with upcycled china and glassware. We also have plant stickers, t-shirts and jewelry but if not allowed we would focus solely on the arrangements.",
+      "dates": [
+        "2026-07-19",
+        "2026-08-23",
+        "2026-09-20",
+        "2026-10-18"
+      ],
+      "spaceType": "one",
+      "bio": "We are a new small family business, nature and plant lovers trying to grow our business as well as to get visibility, and NY plant market seems to be the perfect place for us."
+    },
+    {
+      "businessName": "Hudson Vally Branch Begonia Society",
+      "contactName": "Aaron Pecson",
+      "socialMedia": "http://instagram.com/hvbegonia",
+      "website": "",
+      "categories": [
+        "society"
+      ],
+      "products": "Begonias",
+      "dates": [
+        "2026-07-19"
+      ],
+      "spaceType": "community",
+      "bio": "to find new members for our society"
+    },
+    {
+      "businessName": "The Moo’s Design, LLC",
+      "contactName": "Ampapatshara Kudeesrisopa",
+      "socialMedia": "www.instagram.com/themoo.nyc",
+      "website": "",
+      "categories": [
+        "houseplants",
+        "accessories"
+      ],
+      "products": "Caudex type of plants. \nHandmade planters by me",
+      "dates": [
+        "2026-07-19",
+        "2026-09-20",
+        "2026-10-18"
+      ],
+      "spaceType": "one",
+      "bio": "I have a lot of plants that I collect in my apartment, and I would like to let them go to the next owner. And I’d like to show my handmade planters as well. \nThank you and I am looking forward to be a part of NY Plant Market 🙏🏼"
+    },
+    {
+      "businessName": "JiggyPlantGuy LLC",
+      "contactName": "Naquan-Vincent Kirkland",
+      "socialMedia": "Instagram.com/jiggyplantguy or JiggyPlantGuy.com",
+      "website": "",
+      "categories": [
+        "houseplants"
+      ],
+      "products": "Anthurium",
+      "dates": [
+        "2026-07-19"
+      ],
+      "spaceType": "two",
+      "bio": "Connect with the north east plant community"
     }
   ]
 }
