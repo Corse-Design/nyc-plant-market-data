@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "publishedAt": "2026-06-29T21:09:22.926Z",
+  "publishedAt": "2026-07-06T19:58:21.504Z",
   "marketDates": [
     {
       "id": "2026-04-19",
@@ -81,8 +81,7 @@
       "products": "Houseplants, aquaponics kits",
       "dates": [
         "2026-05-31",
-        "2026-06-21",
-        "2026-07-19"
+        "2026-06-21"
       ],
       "spaceType": "one",
       "bio": "I am a plant and fish person. This combination of plant and fish together is not hard. I want to share this with other people that if I can do it they can too."
@@ -517,10 +516,7 @@
       ],
       "products": "Full garden & plant supplies",
       "dates": [
-        "2026-06-21",
-        "2026-07-19",
-        "2026-09-20",
-        "2026-10-18"
+        "2026-06-21"
       ],
       "spaceType": "one",
       "bio": "Looking for opportunity to expand our brand reach and sell products."
@@ -815,7 +811,8 @@
         "2026-05-31",
         "2026-06-21",
         "2026-08-23",
-        "2026-10-18"
+        "2026-10-18",
+        "2026-09-20"
       ],
       "spaceType": "two",
       "bio": "I started tissue culturing and growing plants in the Hudson valley to sell within the NYC metro area. The goal was to provide people in this area access to plants without the bigger markups required when importing everything."
@@ -955,7 +952,6 @@
       "dates": [
         "2026-05-31",
         "2026-06-21",
-        "2026-07-19",
         "2026-08-23",
         "2026-09-20",
         "2026-10-18"
@@ -1446,6 +1442,22 @@
       "bio": "to find new members for our society"
     },
     {
+      "businessName": "Whitney the Artist",
+      "contactName": "Whitney Johnson",
+      "socialMedia": "@whitneytheartist",
+      "website": "",
+      "categories": [
+        "other"
+      ],
+      "products": "Art Prints, Magnets, bookmarks, greeting cards",
+      "dates": [
+        "2026-07-19",
+        "2026-08-23"
+      ],
+      "spaceType": "one",
+      "bio": "Whitney the Artist is a creative studio specializing in original artwork, prints, and thoughtfully designed stationery. Inspired by women of color, peaceful everyday moments, and the beauty of plants, each piece is created to feel warm, personal, and intentional. Through mediums like oil painting, lino block printing, and digital art, the work celebrates softness, self-expression, and spaces of joy."
+    },
+    {
       "businessName": "The Moo’s Design, LLC",
       "contactName": "Ampapatshara Kudeesrisopa",
       "socialMedia": "www.instagram.com/themoo.nyc",
@@ -1477,6 +1489,38 @@
       ],
       "spaceType": "two",
       "bio": "Connect with the north east plant community"
+    },
+    {
+      "businessName": "Fair Orchids",
+      "contactName": "Kim Feddersen",
+      "socialMedia": "fairorchids.us",
+      "website": "",
+      "categories": [
+        "houseplants"
+      ],
+      "products": "Orchids (primarily non-Phalaenopsis) & Clivia miniata",
+      "dates": [
+        "2026-07-19",
+        "2026-08-23",
+        "2026-10-18"
+      ],
+      "spaceType": "one",
+      "bio": "My nursery has no retail presence in the metropolitan area (I sell exclusively at regional orchid shows & orchid society meetings).  In the absence of a NYC orchid show, this seems like a natural opportunity to become better known in the market."
+    },
+    {
+      "businessName": "Kazeramics",
+      "contactName": "Brian Kazakoff",
+      "socialMedia": "https://www.instagram.com/kazeramics_?utm_source=qr",
+      "website": "",
+      "categories": [
+        "accessories"
+      ],
+      "products": "Ceramic planters",
+      "dates": [
+        "2026-08-23"
+      ],
+      "spaceType": "one",
+      "bio": "I’m a houseplant enthusiast and collector. My love for plants got me into starting pottery over 3 years ago."
     }
   ]
 }
