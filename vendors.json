@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "publishedAt": "2026-07-09T13:36:47.563Z",
+  "publishedAt": "2026-07-09T14:37:00.025Z",
   "marketDates": [
     {
       "id": "2026-04-19",
@@ -1438,7 +1438,7 @@
       "dates": [
         "2026-07-19"
       ],
-      "spaceType": "community",
+      "spaceType": "one",
       "bio": "to find new members for our society"
     },
     {
@@ -1521,6 +1521,42 @@
       ],
       "spaceType": "one",
       "bio": "I’m a houseplant enthusiast and collector. My love for plants got me into starting pottery over 3 years ago."
+    },
+    {
+      "businessName": "El Pernil Ecuatoriano",
+      "contactName": "Jose Rodriguez",
+      "socialMedia": "https://www.instagram.com/elpernilecuatoriano/",
+      "website": "",
+      "categories": [
+        "food_bev"
+      ],
+      "products": "Ecuadorian Pernil",
+      "dates": [
+        "2026-07-19",
+        "2026-08-23",
+        "2026-09-20",
+        "2026-10-18"
+      ],
+      "spaceType": "two",
+      "bio": "Nigel invited"
+    },
+    {
+      "businessName": "Matylda's Food",
+      "contactName": "Adam Morkowski",
+      "socialMedia": "https://www.instagram.com/matyldasfood/",
+      "website": "",
+      "categories": [
+        "food_bev"
+      ],
+      "products": "Pierogies, Kielbasa, Zapiekanka",
+      "dates": [
+        "2026-07-19",
+        "2026-08-23",
+        "2026-09-20",
+        "2026-10-18"
+      ],
+      "spaceType": "two",
+      "bio": "Nigel invited"
     }
   ]
 }
