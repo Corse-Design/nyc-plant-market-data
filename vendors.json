@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "publishedAt": "2026-07-09T13:32:06.490Z",
+  "publishedAt": "2026-07-09T13:36:47.563Z",
   "marketDates": [
     {
       "id": "2026-04-19",
@@ -1217,7 +1217,7 @@
     {
       "businessName": "Suri & Caya Fiber Art Designs",
       "contactName": "Michelle Fleet",
-      "socialMedia": "https://www.instagram.com/suriandcaya?igsh=MXB3MWV2aHpwYzFzZA%3D%3D&utm_source=qr",
+      "socialMedia": "https://suriandcaya.com/",
       "website": "",
       "categories": [
         "houseplants",
@@ -1235,7 +1235,7 @@
     {
       "businessName": "Bonsai Bar",
       "contactName": "Jessica Cauttero",
-      "socialMedia": "@thebonsaibar, @bonsaibar_NYC",
+      "socialMedia": "https://bonsaibar.com/",
       "website": "",
       "categories": [
         "accessories"
@@ -1268,7 +1268,7 @@
     {
       "businessName": "Mari Had A Little Plant",
       "contactName": "Marianne Rocha",
-      "socialMedia": "@mari.had.a.little.plant",
+      "socialMedia": "https://www.instagram.com/mari.had.a.little.plant/",
       "website": "",
       "categories": [
         "houseplants",
@@ -1373,7 +1373,7 @@
     {
       "businessName": "Elevated Succulents",
       "contactName": "Paula Puia",
-      "socialMedia": "Elevated_succulents_",
+      "socialMedia": "https://www.elevatedsucculents.com/",
       "website": "",
       "categories": [
         "houseplants",
@@ -1391,7 +1391,7 @@
     {
       "businessName": "Annie's Jungle Shop",
       "contactName": "Anna Castro",
-      "socialMedia": "Www.instagram.com/anniesjungleshop",
+      "socialMedia": "https://www.instagram.com/anniesjungleshop",
       "website": "",
       "categories": [
         "houseplants",
@@ -1410,7 +1410,7 @@
     {
       "businessName": "Plant and Play Co.",
       "contactName": "Danielle Varon",
-      "socialMedia": "@plantandplayco ( IG)",
+      "socialMedia": "https://www.instagram.com/plantandplayco",
       "website": "",
       "categories": [
         "houseplants",
@@ -1429,7 +1429,7 @@
     {
       "businessName": "Hudson Vally Branch Begonia Society",
       "contactName": "Aaron Pecson",
-      "socialMedia": "http://instagram.com/hvbegonia",
+      "socialMedia": "https://www.hvbegonia.org/",
       "website": "",
       "categories": [
         "society"
@@ -1444,7 +1444,7 @@
     {
       "businessName": "Whitney the Artist",
       "contactName": "Whitney Johnson",
-      "socialMedia": "@whitneytheartist",
+      "socialMedia": "https://www.instagram.com/whitneytheartist",
       "website": "",
       "categories": [
         "other"
@@ -1478,7 +1478,7 @@
     {
       "businessName": "JiggyPlantGuy LLC",
       "contactName": "Naquan-Vincent Kirkland",
-      "socialMedia": "Instagram.com/jiggyplantguy or JiggyPlantGuy.com",
+      "socialMedia": "https://jiggyplantguy.com/",
       "website": "",
       "categories": [
         "houseplants"
@@ -1493,7 +1493,7 @@
     {
       "businessName": "Fair Orchids",
       "contactName": "Kim Feddersen",
-      "socialMedia": "fairorchids.us",
+      "socialMedia": "https://fairorchids.us/",
       "website": "",
       "categories": [
         "houseplants"
