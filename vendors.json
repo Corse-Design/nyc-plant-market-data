@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "publishedAt": "2026-07-09T14:37:00.025Z",
+  "publishedAt": "2026-07-10T20:00:31.956Z",
   "marketDates": [
     {
       "id": "2026-04-19",
@@ -1298,7 +1298,6 @@
       "products": "Terrariums, moss walls, terrarium DIY kit",
       "dates": [
         "2026-06-21",
-        "2026-07-19",
         "2026-08-23",
         "2026-09-20"
       ],
@@ -1438,7 +1437,7 @@
       "dates": [
         "2026-07-19"
       ],
-      "spaceType": "one",
+      "spaceType": "community",
       "bio": "to find new members for our society"
     },
     {
