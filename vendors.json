@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "publishedAt": "2026-07-10T20:00:31.956Z",
+  "publishedAt": "2026-07-15T20:34:34.656Z",
   "marketDates": [
     {
       "id": "2026-04-19",
@@ -993,7 +993,6 @@
       "products": "Aroids and plant accessories",
       "dates": [
         "2026-05-31",
-        "2026-07-19",
         "2026-08-23",
         "2026-09-20",
         "2026-10-18"
@@ -1157,7 +1156,7 @@
       "products": "Cold Hardy Cut Flower Annuals, Warm loving Cut Flower annuals and Biennials  and Natives grown from seed.",
       "dates": [
         "2026-05-31",
-        "2026-07-19"
+        "2026-08-23"
       ],
       "spaceType": "two",
       "bio": "To get my new business out of the growhouse and into the lives of peoole who appreciate plants grown from seed with love and care. And to meet other plant nerds ofcourse !"
@@ -1192,7 +1191,10 @@
       "products": "Philodendron, Alocasia, others",
       "dates": [
         "2026-06-21",
-        "2026-07-19"
+        "2026-07-19",
+        "2026-08-23",
+        "2026-09-20",
+        "2026-10-18"
       ],
       "spaceType": "one",
       "bio": "Have many pants to share and to connect with others in the community"
@@ -1298,7 +1300,6 @@
       "products": "Terrariums, moss walls, terrarium DIY kit",
       "dates": [
         "2026-06-21",
-        "2026-08-23",
         "2026-09-20"
       ],
       "spaceType": "one",
@@ -1475,21 +1476,6 @@
       "bio": "I have a lot of plants that I collect in my apartment, and I would like to let them go to the next owner. And I’d like to show my handmade planters as well. \nThank you and I am looking forward to be a part of NY Plant Market 🙏🏼"
     },
     {
-      "businessName": "JiggyPlantGuy LLC",
-      "contactName": "Naquan-Vincent Kirkland",
-      "socialMedia": "https://jiggyplantguy.com/",
-      "website": "",
-      "categories": [
-        "houseplants"
-      ],
-      "products": "Anthurium",
-      "dates": [
-        "2026-07-19"
-      ],
-      "spaceType": "two",
-      "bio": "Connect with the north east plant community"
-    },
-    {
       "businessName": "Fair Orchids",
       "contactName": "Kim Feddersen",
       "socialMedia": "https://fairorchids.us/",
@@ -1556,6 +1542,21 @@
       ],
       "spaceType": "two",
       "bio": "Nigel invited"
+    },
+    {
+      "businessName": "Plantfool",
+      "contactName": "ALICE CHUNG",
+      "socialMedia": "https://www.instagram.com/fleurgrapher?igsh=MWVud2g2ZGJqNDBwYg%3D%3D&utm_source=qr",
+      "website": "",
+      "categories": [
+        "houseplants"
+      ],
+      "products": "Mostly Cactus and succulents",
+      "dates": [
+        "2026-09-20"
+      ],
+      "spaceType": "one",
+      "bio": "I want to experience and be part of NY plant community"
     }
   ]
 }
