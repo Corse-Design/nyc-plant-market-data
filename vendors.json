@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "publishedAt": "2026-07-15T20:34:34.656Z",
+  "publishedAt": "2026-07-21T13:55:43.927Z",
   "marketDates": [
     {
       "id": "2026-04-19",
@@ -120,22 +120,6 @@
       ],
       "spaceType": "one",
       "bio": "Connect with people who have the same interest and make friends."
-    },
-    {
-      "businessName": "Clay Gardens",
-      "contactName": "Nev Johnson",
-      "socialMedia": "https://www.instagram.com/clay__gardens",
-      "website": "",
-      "categories": [
-        "accessories"
-      ],
-      "products": "Ceramics and pottery",
-      "dates": [
-        "2026-08-23",
-        "2026-10-18"
-      ],
-      "spaceType": "sharing",
-      "bio": "I'm starting up my ceramics business again after a long pause due to a cross-country move and other life changes. This would be a wonderful opportunity to launch in my new city. I'm very passionate about this intersection of art and plants. I'm also a longtime supporter of other vendors like cactus store/LESCSS and a new member of the NYC cactus and succulent society."
     },
     {
       "businessName": "Moonstone & Mulberry",
@@ -413,7 +397,6 @@
       "dates": [
         "2026-04-19",
         "2026-08-23",
-        "2026-09-20",
         "2026-10-18",
         "2026-07-19"
       ],
