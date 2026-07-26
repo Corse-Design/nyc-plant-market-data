@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "publishedAt": "2026-07-25T00:31:19.842Z",
+  "publishedAt": "2026-07-26T12:24:36.335Z",
   "marketDates": [
     {
       "id": "2026-04-19",
@@ -211,7 +211,9 @@
       "dates": [
         "2026-07-19",
         "2026-09-20",
-        "2026-06-21"
+        "2026-06-21",
+        "2026-08-23",
+        "2026-10-18"
       ],
       "spaceType": "one",
       "bio": "Interested in being part of the plant community and sharing our passion for plants and design."
@@ -376,7 +378,6 @@
         "2026-05-31",
         "2026-06-21",
         "2026-07-19",
-        "2026-08-23",
         "2026-09-20",
         "2026-10-18"
       ],
