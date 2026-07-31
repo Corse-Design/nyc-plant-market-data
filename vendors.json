@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "publishedAt": "2026-07-30T20:43:12.723Z",
+  "publishedAt": "2026-07-31T20:47:54.652Z",
   "marketDates": [
     {
       "id": "2026-04-19",
@@ -1537,6 +1537,21 @@
       ],
       "spaceType": "one",
       "bio": "I want to experience and be part of NY plant community"
+    },
+    {
+      "businessName": "Cambodia Now",
+      "contactName": "Sokhita Sok",
+      "socialMedia": "https://www.instagram.com/cambodiannow/?hl=en",
+      "website": "",
+      "categories": [
+        "food_bev"
+      ],
+      "products": "Cambodian Food",
+      "dates": [
+        "2026-08-23"
+      ],
+      "spaceType": "two",
+      "bio": "Nigel invited."
     }
   ]
 }
