@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "publishedAt": "2026-07-31T20:47:54.652Z",
+  "publishedAt": "2026-08-08T15:02:27.893Z",
   "marketDates": [
     {
       "id": "2026-04-19",
@@ -880,8 +880,8 @@
         "2026-04-19",
         "2026-05-31",
         "2026-06-21",
-        "2026-09-20",
-        "2026-10-18"
+        "2026-10-18",
+        "2026-08-23"
       ],
       "spaceType": "one",
       "bio": "Because my product will add to the NYC plant community and help NYC plant owners take care of their plants!"
@@ -973,10 +973,7 @@
       ],
       "products": "Aroids and plant accessories",
       "dates": [
-        "2026-05-31",
-        "2026-08-23",
-        "2026-09-20",
-        "2026-10-18"
+        "2026-05-31"
       ],
       "spaceType": "two",
       "bio": "Be more active with local communities"
@@ -1067,7 +1064,6 @@
         "2026-05-31",
         "2026-06-21",
         "2026-07-19",
-        "2026-08-23",
         "2026-09-20",
         "2026-10-18"
       ],
@@ -1537,6 +1533,91 @@
       ],
       "spaceType": "one",
       "bio": "I want to experience and be part of NY plant community"
+    },
+    {
+      "businessName": "The Planty Life",
+      "contactName": "Lan Le",
+      "socialMedia": "https://www.instagram.com/the_plantylife?igsh=bWx2d25sbmhuOWZt",
+      "website": "",
+      "categories": [
+        "houseplants"
+      ],
+      "products": "Hoyas",
+      "dates": [
+        "2026-08-23",
+        "2026-09-20",
+        "2026-10-18"
+      ],
+      "spaceType": "one",
+      "bio": "Share my hoyas with the plant community."
+    },
+    {
+      "businessName": "Printing4Plants",
+      "contactName": "yuting Ji",
+      "socialMedia": "Instagram @Printing4plants",
+      "website": "",
+      "categories": [
+        "accessories"
+      ],
+      "products": "I 3D print plant accessories with biodegradable materials, uniquely shaped and custom made. For example, self watering pot of all designs, wall mounted planter with water reservoirs (so no need to take your staghorn fern off the wall every other days), window sill planters, slow dripping water reservoir, plant light stand and cover",
+      "dates": [
+        "2026-08-23",
+        "2026-09-20",
+        "2026-10-18"
+      ],
+      "spaceType": "one",
+      "bio": "I’ve been visiting a lot and now I think I can genuinely contribute something unique to others passionates life myself"
+    },
+    {
+      "businessName": "Material Intent Ceramics by Charlotte Corini",
+      "contactName": "Charlotte Corini",
+      "socialMedia": "www.materialintent.com",
+      "website": "",
+      "categories": [
+        "accessories"
+      ],
+      "products": "I sell unique hand made planters www.materialintent.com",
+      "dates": [
+        "2026-08-23",
+        "2026-09-20",
+        "2026-10-18"
+      ],
+      "spaceType": "one",
+      "bio": "I love making planters and have designed them for plant lovers"
+    },
+    {
+      "businessName": "Green Witch Tropicals",
+      "contactName": "Julie Antonio",
+      "socialMedia": "https://www.facebook.com/share/14mFh4CLbRi/?mibextid=wwXIfr",
+      "website": "",
+      "categories": [
+        "houseplants"
+      ],
+      "products": "Focus on rare/uncommon scindapsus, but also other uncommon aroids (monsteras, philos, alocasias, etc)",
+      "dates": [
+        "2026-08-23",
+        "2026-09-20",
+        "2026-10-18"
+      ],
+      "spaceType": "one",
+      "bio": "A friend attended as a vendor and had a great time, and i think it sounds like a fun event and great way to participate in the local plant community"
+    },
+    {
+      "businessName": "Brooklyn Botanicals",
+      "contactName": "Octavius Baccari",
+      "socialMedia": "https://www.instagram.com/brooklynb0tanicals?igsh=ZWd5ZHIzem1nd285",
+      "website": "",
+      "categories": [
+        "kits"
+      ],
+      "products": "https://docs.google.com/document/d/1-F-QHs6H0LdAiLMYDRpygI6YHiIQAlrsDFntxLeXAvA/edit?usp=drivesdk",
+      "dates": [
+        "2026-08-23",
+        "2026-09-20",
+        "2026-10-18"
+      ],
+      "spaceType": "one",
+      "bio": "Yes"
     },
     {
       "businessName": "Cambodia Now",
