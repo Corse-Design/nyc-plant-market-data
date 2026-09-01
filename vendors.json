@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "publishedAt": "2026-08-08T15:02:27.893Z",
+  "publishedAt": "2026-09-01T12:05:26.165Z",
   "marketDates": [
     {
       "id": "2026-04-19",
@@ -86,7 +86,7 @@
       "bio": "I am a plant and fish person. This combination of plant and fish together is not hard. I want to share this with other people that if I can do it they can too."
     },
     {
-      "businessName": "Garden of Grace / Plantie Val",
+      "businessName": "Garden of Grace by Plantae Val",
       "contactName": "Valerie Smith",
       "socialMedia": "https://www.instagram.com/plantie_val_21/",
       "website": "",
@@ -192,7 +192,9 @@
       "dates": [
         "2026-04-19",
         "2026-08-23",
-        "2026-05-31"
+        "2026-05-31",
+        "2026-09-20",
+        "2026-10-18"
       ],
       "spaceType": "community",
       "bio": "Outreach and membership growth for the orchid society."
@@ -616,7 +618,6 @@
         "2026-04-19",
         "2026-07-19",
         "2026-08-23",
-        "2026-10-18",
         "2026-06-21"
       ],
       "spaceType": "two",
@@ -688,9 +689,7 @@
       "dates": [
         "2026-04-19",
         "2026-05-31",
-        "2026-06-21",
-        "2026-09-20",
-        "2026-10-18"
+        "2026-06-21"
       ],
       "spaceType": "one",
       "bio": "I am looking for more locations to serve my customers besides my home and the one farmer's market I sell at now. I have experience selling to city residents with their own unique requirements to plant for rain gardens, tree pits, back yards, fire escapes and rooftops."
@@ -862,7 +861,9 @@
       "products": "Monstera, philodendron, pothos, alocasia",
       "dates": [
         "2026-05-31",
-        "2026-08-23"
+        "2026-08-23",
+        "2026-09-20",
+        "2026-10-18"
       ],
       "spaceType": "one",
       "bio": "To connect with more plant communities"
@@ -896,8 +897,7 @@
       ],
       "products": "handmade ceramic planters",
       "dates": [
-        "2026-08-23",
-        "2026-09-20"
+        "2026-08-23"
       ],
       "spaceType": "one",
       "bio": "I love plants and most of the ceramic products I make are to display plants!"
@@ -1065,7 +1065,8 @@
         "2026-06-21",
         "2026-07-19",
         "2026-09-20",
-        "2026-10-18"
+        "2026-10-18",
+        "2026-08-23"
       ],
       "spaceType": "two",
       "bio": "Plant markets are where my kind of people reside! I love making new friends and sharing the love of plants with our community. I run my business out of my apartment in New York so markets like this is what makes my small business world go round! I’d love to be apart of it in any capaticity you’d have me!"
@@ -1238,7 +1239,6 @@
       ],
       "products": "Leaf Sweep 4-in-1 Plant Cleaning Tool",
       "dates": [
-        "2026-09-20",
         "2026-10-18",
         "2026-08-23"
       ],
@@ -1277,8 +1277,7 @@
       ],
       "products": "Terrariums, moss walls, terrarium DIY kit",
       "dates": [
-        "2026-06-21",
-        "2026-09-20"
+        "2026-06-21"
       ],
       "spaceType": "one",
       "bio": "Very excited to be part of this plant matket, as small business this is an opportunity to meet new customers, connect with other plant vendors and bring more greenery to NYC."
@@ -1316,21 +1315,6 @@
       ],
       "spaceType": "one",
       "bio": "I want to be part of NY Plant Market because I am passionate about houseplants and plant propagation and would love the opportunity to connect with fellow plant enthusiasts in the NYC community. As a new small plant business, Cozy Plant Mom focuses on sharing rooted cuttings, propagated plants, and the joy of growing indoor plants. I am excited to learn from other vendors, meet customers, and contribute to the welcoming plant community that NY Plant Market has created."
-    },
-    {
-      "businessName": "DBA The Painted Stone Emporium",
-      "contactName": "Erin Howard-Anderson",
-      "socialMedia": "IG: https://www.instagram.com/thepaintedstoneemporium?igsh=ZmZxbGw4d25ucGZ1 FB: https://www.facebook.com/share/1Hje35g4Gh/",
-      "website": "",
-      "categories": [
-        "houseplants"
-      ],
-      "products": "We offer a broad variety of plants, and can adjust as necessary! Some of our specialty plants that tend to do well at plant shows are unusual succulents and cacti. This includes but is not limited to Ghost Cacti, Mermaid Tail Cacti, Frizzle Sizzles, striking Aeoniums, Strings of -- Hearts, Turtles, Pearls, Buttons, Baby Necklace, Coins & more. Our other best sellers are Variegated Alocasia Frydek, Variegated Dragon Scale Mint, Hoya Hearts, Variegated Philodendrons and more. Again, we offer a very broad variety of plants of many varieties and can adjust as necessary.",
-      "dates": [
-        "2026-08-23"
-      ],
-      "spaceType": "two",
-      "bio": "I've heard great things about the NY Plant Market! I vend at plant shows with Plantella and the New England Plant Expo regularly. I discovered you just recently through some of the other vendors at these shows. They've told me your market has a great vibe and is awesome to participate in. I would hope to bring some new and interesting plants to the shows that people would love. Plus I absolutely love participating in plant themed shows in particular, with like-minded plant enthusiasts."
     },
     {
       "businessName": "Houseplant Menageries",
@@ -1513,8 +1497,7 @@
       ],
       "products": "Pierogies, Kielbasa, Zapiekanka",
       "dates": [
-        "2026-07-19",
-        "2026-09-20"
+        "2026-07-19"
       ],
       "spaceType": "two",
       "bio": "Nigel invited"
@@ -1567,6 +1550,22 @@
       ],
       "spaceType": "one",
       "bio": "I’ve been visiting a lot and now I think I can genuinely contribute something unique to others passionates life myself"
+    },
+    {
+      "businessName": "Blue Boy Begonias",
+      "contactName": "Matthew Gershovich",
+      "socialMedia": "",
+      "website": "",
+      "categories": [
+        "houseplants",
+        "kits"
+      ],
+      "products": "Rare Terrarium Begonias, and mini terrariums",
+      "dates": [
+        "2026-10-18"
+      ],
+      "spaceType": "one",
+      "bio": "I have been a plant keeper, specifically focusing on terrarium begonias for years. This past year i began hybridizung and growing rare imported species begonia from seed. In the plabt market for rare terrarium begonia there are a very small handful of sellers that gatekeep these incredible species by super high pay walls. Although I have been selling for quite a while it became my passion to cultivate these rare begonia and bring then to the enthusiasts for more affordable prices!"
     },
     {
       "businessName": "Material Intent Ceramics by Charlotte Corini",
@@ -1633,6 +1632,71 @@
       ],
       "spaceType": "two",
       "bio": "Nigel invited."
+    },
+    {
+      "businessName": "Brady’s Plant Co.",
+      "contactName": "Brady Kardos",
+      "socialMedia": "https://linktr.ee/bradysplantco?utm_source=linktree_profile_share&ltsid=2e8140fa-30c6-4ebe-bc76-ffa1335634c2",
+      "website": "",
+      "categories": [
+        "houseplants"
+      ],
+      "products": "Rare monstera, philodendron, and alocasia varieties. Basics like monstera albo/bulbasaur/thai con, but also higher end philodendron and newer cultivars like fire princess, flobe hybrids, orange melano, etc.",
+      "dates": [
+        "2026-09-20",
+        "2026-10-18"
+      ],
+      "spaceType": "one",
+      "bio": "I’ve been trying to connect with more people in the plant community. This even looks like the perfect place to build relationships and expand my small business."
+    },
+    {
+      "businessName": "Emergent",
+      "contactName": "Marla Sulmasy",
+      "socialMedia": "Emergentgreenery",
+      "website": "",
+      "categories": [
+        "houseplants",
+        "accessories"
+      ],
+      "products": "Thailand imports, South American imports, mosaic pots and accessories.  Some crochet jewelry.",
+      "dates": [
+        "2026-10-18"
+      ],
+      "spaceType": "one",
+      "bio": "I went to the market this summer and I liked the size and culture.  I love plants and have a lot to sell!"
+    },
+    {
+      "businessName": "Heeart Leaf",
+      "contactName": "Emily Park",
+      "socialMedia": "https://www.instagram.com/heeart_leaf?igsi=MWtxa2V0OGpyNnV4Yg%3D%3D&utm_source=qr",
+      "website": "",
+      "categories": [
+        "houseplants"
+      ],
+      "products": "Mostly rare Hoya species.",
+      "dates": [
+        "2026-09-20",
+        "2026-10-18"
+      ],
+      "spaceType": "one",
+      "bio": "I came to the market today and picked up a few things. You need more Hoya vendors!"
+    },
+    {
+      "businessName": "Therese Flores-Green",
+      "contactName": "Therese Flores-Green",
+      "socialMedia": "",
+      "website": "",
+      "categories": [
+        "houseplants",
+        "accessories"
+      ],
+      "products": "Hoya, succulents, pinguicula",
+      "dates": [
+        "2026-09-20",
+        "2026-10-18"
+      ],
+      "spaceType": "one",
+      "bio": "Because I love it!!!"
     }
   ]
 }
