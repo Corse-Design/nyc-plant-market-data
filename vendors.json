@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "publishedAt": "2026-09-01T12:05:26.165Z",
+  "publishedAt": "2026-09-01T20:25:37.929Z",
   "marketDates": [
     {
       "id": "2026-04-19",
@@ -1214,7 +1214,7 @@
     },
     {
       "businessName": "Bonsai Bar",
-      "contactName": "Jessica Cauttero",
+      "contactName": "Sophie Costanzi ",
       "socialMedia": "https://bonsaibar.com/",
       "website": "",
       "categories": [
@@ -1345,7 +1345,8 @@
       "dates": [
         "2026-07-19",
         "2026-08-23",
-        "2026-09-20"
+        "2026-09-20",
+        "2026-10-18"
       ],
       "spaceType": "two",
       "bio": "Offer various succulents from around the world we import"
@@ -1503,7 +1504,7 @@
       "bio": "Nigel invited"
     },
     {
-      "businessName": "Plantfool",
+      "businessName": "Plant & Strangers/ Tohboon",
       "contactName": "ALICE CHUNG",
       "socialMedia": "https://www.instagram.com/fleurgrapher?igsh=MWVud2g2ZGJqNDBwYg%3D%3D&utm_source=qr",
       "website": "",
@@ -1512,7 +1513,7 @@
       ],
       "products": "Mostly Cactus and succulents",
       "dates": [
-        "2026-09-20"
+        "2026-10-18"
       ],
       "spaceType": "one",
       "bio": "I want to experience and be part of NY plant community"
@@ -1528,7 +1529,6 @@
       "products": "Hoyas",
       "dates": [
         "2026-08-23",
-        "2026-09-20",
         "2026-10-18"
       ],
       "spaceType": "one",
@@ -1628,7 +1628,8 @@
       ],
       "products": "Cambodian Food",
       "dates": [
-        "2026-08-23"
+        "2026-08-23",
+        "2026-09-20"
       ],
       "spaceType": "two",
       "bio": "Nigel invited."
