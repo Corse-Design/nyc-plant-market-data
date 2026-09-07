@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "publishedAt": "2026-09-01T20:25:37.929Z",
+  "publishedAt": "2026-09-07T18:39:45.235Z",
   "marketDates": [
     {
       "id": "2026-04-19",
@@ -422,7 +422,6 @@
         "2026-05-31",
         "2026-06-21",
         "2026-07-19",
-        "2026-09-20",
         "2026-10-18"
       ],
       "spaceType": "one",
@@ -672,7 +671,8 @@
       "products": "Hoyas, Anthuriums",
       "dates": [
         "2026-08-23",
-        "2026-09-20"
+        "2026-09-20",
+        "2026-10-18"
       ],
       "spaceType": "one",
       "bio": "An opportunity to sell and get my name out there as I begin my business."
@@ -1260,7 +1260,6 @@
       "dates": [
         "2026-07-19",
         "2026-08-23",
-        "2026-09-20",
         "2026-10-18"
       ],
       "spaceType": "one",
@@ -1698,6 +1697,22 @@
       ],
       "spaceType": "one",
       "bio": "Because I love it!!!"
+    },
+    {
+      "businessName": "Thangs That Grow",
+      "contactName": "Thang Phu",
+      "socialMedia": "https://www.instagram.com/thangsthatgrow?igsi=MWs0amNmcWNjdmxlbQ==",
+      "website": "",
+      "categories": [
+        "houseplants",
+        "accessories"
+      ],
+      "products": "Various Monsteras including Devil Monsters and Vietciosa starters, from green Alocasias to rare variegated Alocasia starters, both semi hydro and chunky soil, various Epiprenum / Pothos, variegated Scindapsus, maybe some variegated succulents - like variegated bromeliad, rosette snake plants etc.",
+      "dates": [
+        "2026-09-20"
+      ],
+      "spaceType": "one",
+      "bio": "I am a plant enthusiast and I fell in love with growing plants as a form of living art. I truly believe that house plants can help improve mental health and well being and I want to share that vision with my community. I met a few vendors like Leah from Rockaway Botanical at the Queens Night Market and we had such a great connection talking about our love for plants for almost an hour, and then I came to the NY Plant Market in August 23rd and met so many wonderful growers and had great conversations and admiration for everyone there. I feel that I share the same passion for plants as everyone I met there, I couldn't help but want to participate and make my some of my collection available as well. I will have a wide ranging selection so that rare and affordable plants are also available."
     }
   ]
 }
