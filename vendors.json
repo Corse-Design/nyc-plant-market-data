@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "publishedAt": "2026-09-07T18:39:45.235Z",
+  "publishedAt": "2026-09-08T12:30:15.985Z",
   "marketDates": [
     {
       "id": "2026-04-19",
@@ -1713,6 +1713,22 @@
       ],
       "spaceType": "one",
       "bio": "I am a plant enthusiast and I fell in love with growing plants as a form of living art. I truly believe that house plants can help improve mental health and well being and I want to share that vision with my community. I met a few vendors like Leah from Rockaway Botanical at the Queens Night Market and we had such a great connection talking about our love for plants for almost an hour, and then I came to the NY Plant Market in August 23rd and met so many wonderful growers and had great conversations and admiration for everyone there. I feel that I share the same passion for plants as everyone I met there, I couldn't help but want to participate and make my some of my collection available as well. I will have a wide ranging selection so that rare and affordable plants are also available."
+    },
+    {
+      "businessName": "Gan’s Drosera Garden",
+      "contactName": "Jason Gan",
+      "socialMedia": "",
+      "website": "",
+      "categories": [
+        "houseplants"
+      ],
+      "products": "Carnivorous plants — I have been growing sundews locally in NYC and have a few species/varieties for sale (all grown from seed or via root/leaf propagation) -\n\nDrosera Capensis ‘Hercules’\nDrosera Graomogolensis\nDrosera Binata\nDrosera Adelae\nDrosera Regia (seedlings)",
+      "dates": [
+        "2026-09-20",
+        "2026-10-18"
+      ],
+      "spaceType": "one",
+      "bio": "Would love to share my interest/passion for carnivorous plants, particularly sundews since they’re less known compared to venus flytraps or pitcher plants. I have been growing sundews for several years and have dozens of species in my collection. Right now I am trying to learn more about successful cultivation and propagation of Drosera Magnifica, a recently discovered and obscure species with little to no information available about it."
     }
   ]
 }
