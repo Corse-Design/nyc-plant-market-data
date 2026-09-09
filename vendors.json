@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "publishedAt": "2026-09-08T12:30:15.985Z",
+  "publishedAt": "2026-09-09T20:13:40.710Z",
   "marketDates": [
     {
       "id": "2026-04-19",
@@ -398,7 +398,6 @@
       "dates": [
         "2026-04-19",
         "2026-08-23",
-        "2026-10-18",
         "2026-07-19"
       ],
       "spaceType": "two",
@@ -882,7 +881,8 @@
         "2026-05-31",
         "2026-06-21",
         "2026-10-18",
-        "2026-08-23"
+        "2026-08-23",
+        "2026-09-20"
       ],
       "spaceType": "one",
       "bio": "Because my product will add to the NYC plant community and help NYC plant owners take care of their plants!"
@@ -1680,6 +1680,22 @@
       ],
       "spaceType": "one",
       "bio": "I came to the market today and picked up a few things. You need more Hoya vendors!"
+    },
+    {
+      "businessName": "Patrick Reyes",
+      "contactName": "Patrick Reyes",
+      "socialMedia": "",
+      "website": "",
+      "categories": [
+        "houseplants",
+        "accessories"
+      ],
+      "products": "(Scindapsus, Alocasias, Monsteras) starters",
+      "dates": [
+        "2026-09-20"
+      ],
+      "spaceType": "one",
+      "bio": "Sell unique plants, meet plant collectors."
     },
     {
       "businessName": "Therese Flores-Green",
