@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "publishedAt": "2026-09-14T11:31:45.129Z",
+  "publishedAt": "2026-09-18T15:08:28.122Z",
   "marketDates": [
     {
       "id": "2026-04-19",
@@ -34,9 +34,9 @@
       "specialLabel": "🌵 Succulent Show + NYCSS"
     },
     {
-      "id": "2026-09-20",
-      "label": "Sep 20",
-      "full": "September 20, 2026",
+      "id": "2026-09-27",
+      "label": "Sep 27",
+      "full": "September 27, 2026",
       "special": false
     },
     {
@@ -62,7 +62,7 @@
         "2026-05-31",
         "2026-06-21",
         "2026-07-19",
-        "2026-09-20",
+        "2026-09-27",
         "2026-10-18"
       ],
       "spaceType": "two",
@@ -114,7 +114,7 @@
       "products": "Accessories, growing media",
       "dates": [
         "2026-08-23",
-        "2026-09-20",
+        "2026-09-27",
         "2026-10-18"
       ],
       "spaceType": "one",
@@ -151,7 +151,7 @@
         "2026-06-21",
         "2026-07-19",
         "2026-08-23",
-        "2026-09-20",
+        "2026-09-27",
         "2026-10-18"
       ],
       "spaceType": "two",
@@ -173,7 +173,7 @@
         "2026-06-21",
         "2026-07-19",
         "2026-08-23",
-        "2026-09-20",
+        "2026-09-27",
         "2026-10-18"
       ],
       "spaceType": "two",
@@ -193,7 +193,7 @@
         "2026-04-19",
         "2026-08-23",
         "2026-05-31",
-        "2026-09-20",
+        "2026-09-27",
         "2026-10-18"
       ],
       "spaceType": "community",
@@ -212,7 +212,7 @@
       "products": "Shade houseplants, accessories",
       "dates": [
         "2026-07-19",
-        "2026-09-20",
+        "2026-09-27",
         "2026-06-21",
         "2026-08-23",
         "2026-10-18"
@@ -236,7 +236,7 @@
         "2026-05-31",
         "2026-06-21",
         "2026-08-23",
-        "2026-09-20",
+        "2026-09-27",
         "2026-10-18"
       ],
       "spaceType": "one",
@@ -257,7 +257,7 @@
         "2026-06-21",
         "2026-07-19",
         "2026-08-23",
-        "2026-09-20",
+        "2026-09-27",
         "2026-10-18"
       ],
       "spaceType": "one",
@@ -296,7 +296,7 @@
         "2026-05-31",
         "2026-06-21",
         "2026-08-23",
-        "2026-09-20",
+        "2026-09-27",
         "2026-10-18"
       ],
       "spaceType": "two",
@@ -319,7 +319,7 @@
         "2026-06-21",
         "2026-07-19",
         "2026-08-23",
-        "2026-09-20",
+        "2026-09-27",
         "2026-10-18"
       ],
       "spaceType": "one",
@@ -343,7 +343,7 @@
         "2026-06-21",
         "2026-07-19",
         "2026-08-23",
-        "2026-09-20",
+        "2026-09-27",
         "2026-10-18"
       ],
       "spaceType": "one",
@@ -378,7 +378,7 @@
         "2026-05-31",
         "2026-06-21",
         "2026-07-19",
-        "2026-09-20",
+        "2026-09-27",
         "2026-10-18"
       ],
       "spaceType": "one",
@@ -441,7 +441,7 @@
         "2026-06-21",
         "2026-07-19",
         "2026-08-23",
-        "2026-09-20",
+        "2026-09-27",
         "2026-10-18"
       ],
       "spaceType": "two",
@@ -463,7 +463,7 @@
         "2026-06-21",
         "2026-07-19",
         "2026-08-23",
-        "2026-09-20"
+        "2026-09-27"
       ],
       "spaceType": "two",
       "bio": "I love plants and I love New York. I work in health care but my passion is my small plant business which I refer to as my mental health therapy. My sister lives in Brooklyn and works as a teacher in special education and we often do rare plant sales together across PA, NY, and NJ which is an awesome way to bond and share our hobby and business."
@@ -535,7 +535,7 @@
       "dates": [
         "2026-06-21",
         "2026-07-19",
-        "2026-09-20",
+        "2026-09-27",
         "2026-10-18"
       ],
       "spaceType": "one",
@@ -553,7 +553,7 @@
       ],
       "products": "Carnivorous plants, accessories",
       "dates": [
-        "2026-09-20",
+        "2026-09-27",
         "2026-10-18",
         "2026-07-19",
         "2026-08-23"
@@ -575,7 +575,7 @@
         "2026-06-21",
         "2026-07-19",
         "2026-08-23",
-        "2026-09-20",
+        "2026-09-27",
         "2026-10-18",
         "2026-04-19"
       ],
@@ -595,7 +595,7 @@
       "dates": [
         "2026-04-19",
         "2026-05-31",
-        "2026-09-20",
+        "2026-09-27",
         "2026-10-18"
       ],
       "spaceType": "one",
@@ -653,7 +653,7 @@
       "dates": [
         "2026-06-21",
         "2026-08-23",
-        "2026-09-20"
+        "2026-09-27"
       ],
       "spaceType": "one",
       "bio": "In celebrating pollinators, we also share education about pollinators and ways to aid in their conservation. The best thing any individual can do is to plant native species — even on a balcony or window box! Since this plant market is part of a movement to reconnect NYC with nature, we think this is an amazing fit! We'd love to spread our message to an audience that already loves plants."
@@ -669,7 +669,7 @@
       "products": "Hoyas, Anthuriums",
       "dates": [
         "2026-08-23",
-        "2026-09-20",
+        "2026-09-27",
         "2026-10-18"
       ],
       "spaceType": "one",
@@ -739,7 +739,7 @@
         "2026-06-21",
         "2026-07-19",
         "2026-08-23",
-        "2026-09-20",
+        "2026-09-27",
         "2026-10-18"
       ],
       "spaceType": "one",
@@ -791,7 +791,7 @@
         "2026-06-21",
         "2026-08-23",
         "2026-10-18",
-        "2026-09-20"
+        "2026-09-27"
       ],
       "spaceType": "two",
       "bio": "I started tissue culturing and growing plants in the Hudson valley to sell within the NYC metro area. The goal was to provide people in this area access to plants without the bigger markups required when importing everything."
@@ -860,7 +860,7 @@
       "dates": [
         "2026-05-31",
         "2026-08-23",
-        "2026-09-20",
+        "2026-09-27",
         "2026-10-18"
       ],
       "spaceType": "one",
@@ -881,7 +881,7 @@
         "2026-06-21",
         "2026-10-18",
         "2026-08-23",
-        "2026-09-20"
+        "2026-09-27"
       ],
       "spaceType": "one",
       "bio": "Because my product will add to the NYC plant community and help NYC plant owners take care of their plants!"
@@ -933,7 +933,7 @@
       "dates": [
         "2026-05-31",
         "2026-06-21",
-        "2026-09-20",
+        "2026-09-27",
         "2026-10-18"
       ],
       "spaceType": "one",
@@ -955,7 +955,7 @@
         "2026-06-21",
         "2026-07-19",
         "2026-10-18",
-        "2026-09-20"
+        "2026-09-27"
       ],
       "spaceType": "one",
       "bio": "I want to share my growing experience with plant lovers."
@@ -990,7 +990,7 @@
         "2026-06-21",
         "2026-07-19",
         "2026-08-23",
-        "2026-09-20",
+        "2026-09-27",
         "2026-10-18",
         "2026-05-31"
       ],
@@ -1011,7 +1011,7 @@
         "2026-05-31",
         "2026-07-19",
         "2026-08-23",
-        "2026-09-20",
+        "2026-09-27",
         "2026-10-18"
       ],
       "spaceType": "two",
@@ -1063,7 +1063,7 @@
         "2026-05-31",
         "2026-06-21",
         "2026-07-19",
-        "2026-09-20",
+        "2026-09-27",
         "2026-10-18",
         "2026-08-23"
       ],
@@ -1116,7 +1116,7 @@
         "2026-06-21",
         "2026-07-19",
         "2026-08-23",
-        "2026-09-20",
+        "2026-09-27",
         "2026-10-18"
       ],
       "spaceType": "one",
@@ -1152,7 +1152,7 @@
         "2026-06-21",
         "2026-07-19",
         "2026-08-23",
-        "2026-09-20"
+        "2026-09-27"
       ],
       "spaceType": "one",
       "bio": "Love plants, I'm a New Yorker"
@@ -1170,7 +1170,7 @@
         "2026-06-21",
         "2026-07-19",
         "2026-08-23",
-        "2026-09-20",
+        "2026-09-27",
         "2026-10-18"
       ],
       "spaceType": "one",
@@ -1187,7 +1187,6 @@
       "products": "I have about 20 species for sale \nMonarda fistulosa\nRudbeckia subtomentosa\nAquilegia canadensis\nAsclepias tuberosa\nHelenium autumnale\nLobelia siphilitica\nOneothera biennis\nPenstemon digitalis\nPenstemon mix\nSalvia azurea\nScrophularia marilandica\nVernonia fasciculata\nBaptisia australis\nEragrostis spectabilis\nBouteloua curtipendula\nSporobolus heterolopois\nPenstemon pallidus\nThalictrum dasycarpum\nPrairie Cinquefoil\nAgastache foeniculum\nMonarda bradburiana\nRudbeckia subtomentosa\nHeuchera villosa\nSalvia lyrata\nHeliopsis helianthoides",
       "dates": [
         "2026-08-23",
-        "2026-09-20",
         "2026-10-18"
       ],
       "spaceType": "one",
@@ -1206,7 +1205,7 @@
       "dates": [
         "2026-07-19",
         "2026-08-23",
-        "2026-09-20"
+        "2026-09-27"
       ],
       "spaceType": "one",
       "bio": "I would like  to be part of NYC Plant Market because the event aligns naturally with the values behind Suri & Caya — craftsmanship, nature, and intentional living. My work is rooted in natural fibers and slow handmade processes, and I believe it connects beautifully with a community that appreciates plants, thoughtful design, and calming spaces.\n\nAs a Brooklyn-based artist, I’m also excited by the opportunity to connect with other local creatives and share my work with an audience that values handmade objects and organic materials."
@@ -1222,7 +1221,7 @@
       "products": "Dwarf Jade (p. Afra) bonsai/prebonsai, Dwarf umbrella (schefflera) bonsai/prebonsai, mini bonsai, potentially ficus bonsai, bonsai supplies (pots, soil, wires, kits)",
       "dates": [
         "2026-07-19",
-        "2026-09-20",
+        "2026-09-27",
         "2026-10-18"
       ],
       "spaceType": "one",
@@ -1292,7 +1291,7 @@
       "dates": [
         "2026-07-19",
         "2026-08-23",
-        "2026-09-20"
+        "2026-09-27"
       ],
       "spaceType": "one",
       "bio": "I think it's a great market and I want to do some market research for my new company I started because of the NY Plant Market. You guys make it so accessible to do."
@@ -1309,7 +1308,7 @@
       "dates": [
         "2026-07-19",
         "2026-08-23",
-        "2026-09-20"
+        "2026-09-27"
       ],
       "spaceType": "one",
       "bio": "I want to be part of NY Plant Market because I am passionate about houseplants and plant propagation and would love the opportunity to connect with fellow plant enthusiasts in the NYC community. As a new small plant business, Cozy Plant Mom focuses on sharing rooted cuttings, propagated plants, and the joy of growing indoor plants. I am excited to learn from other vendors, meet customers, and contribute to the welcoming plant community that NY Plant Market has created."
@@ -1325,7 +1324,7 @@
       "products": "Mostly uncommon tropical plants, some very unique. Lots from or in tissue culture and project plants (ugly ducklings)",
       "dates": [
         "2026-07-19",
-        "2026-09-20"
+        "2026-09-27"
       ],
       "spaceType": "one",
       "bio": "I've heard good things about it from fellow vendors at other events, and I have been wanting to spread my reach. It's my understanding that there's a lot of nice people going to this event."
@@ -1343,7 +1342,7 @@
       "dates": [
         "2026-07-19",
         "2026-08-23",
-        "2026-09-20",
+        "2026-09-27",
         "2026-10-18"
       ],
       "spaceType": "two",
@@ -1362,7 +1361,7 @@
       "dates": [
         "2026-07-19",
         "2026-08-23",
-        "2026-09-20",
+        "2026-09-27",
         "2026-10-18"
       ],
       "spaceType": "one",
@@ -1381,7 +1380,7 @@
       "dates": [
         "2026-07-19",
         "2026-08-23",
-        "2026-09-20",
+        "2026-09-27",
         "2026-10-18"
       ],
       "spaceType": "one",
@@ -1430,7 +1429,7 @@
       "products": "Caudex type of plants. \nHandmade planters by me",
       "dates": [
         "2026-07-19",
-        "2026-09-20",
+        "2026-09-27",
         "2026-10-18"
       ],
       "spaceType": "one",
@@ -1480,7 +1479,7 @@
       "dates": [
         "2026-07-19",
         "2026-08-23",
-        "2026-09-20",
+        "2026-09-27",
         "2026-10-18"
       ],
       "spaceType": "two",
@@ -1543,7 +1542,7 @@
       "products": "I 3D print plant accessories with biodegradable materials, uniquely shaped and custom made. For example, self watering pot of all designs, wall mounted planter with water reservoirs (so no need to take your staghorn fern off the wall every other days), window sill planters, slow dripping water reservoir, plant light stand and cover",
       "dates": [
         "2026-08-23",
-        "2026-09-20",
+        "2026-09-27",
         "2026-10-18"
       ],
       "spaceType": "one",
@@ -1576,7 +1575,7 @@
       "products": "I sell unique hand made planters www.materialintent.com",
       "dates": [
         "2026-08-23",
-        "2026-09-20",
+        "2026-09-27",
         "2026-10-18"
       ],
       "spaceType": "one",
@@ -1593,7 +1592,7 @@
       "products": "Focus on rare/uncommon scindapsus, but also other uncommon aroids (monsteras, philos, alocasias, etc)",
       "dates": [
         "2026-08-23",
-        "2026-09-20",
+        "2026-09-27",
         "2026-10-18"
       ],
       "spaceType": "one",
@@ -1610,7 +1609,7 @@
       "products": "https://docs.google.com/document/d/1-F-QHs6H0LdAiLMYDRpygI6YHiIQAlrsDFntxLeXAvA/edit?usp=drivesdk",
       "dates": [
         "2026-08-23",
-        "2026-09-20",
+        "2026-09-27",
         "2026-10-18"
       ],
       "spaceType": "one",
@@ -1627,7 +1626,7 @@
       "products": "Cambodian Food",
       "dates": [
         "2026-08-23",
-        "2026-09-20"
+        "2026-09-27"
       ],
       "spaceType": "two",
       "bio": "Nigel invited."
@@ -1642,7 +1641,7 @@
       ],
       "products": "Rare monstera, philodendron, and alocasia varieties. Basics like monstera albo/bulbasaur/thai con, but also higher end philodendron and newer cultivars like fire princess, flobe hybrids, orange melano, etc.",
       "dates": [
-        "2026-09-20",
+        "2026-09-27",
         "2026-10-18"
       ],
       "spaceType": "one",
@@ -1674,7 +1673,7 @@
       ],
       "products": "Mostly rare Hoya species.",
       "dates": [
-        "2026-09-20",
+        "2026-09-27",
         "2026-10-18"
       ],
       "spaceType": "one",
@@ -1691,7 +1690,7 @@
       ],
       "products": "(Scindapsus, Alocasias, Monsteras) starters",
       "dates": [
-        "2026-09-20"
+        "2026-09-27"
       ],
       "spaceType": "one",
       "bio": "Sell unique plants, meet plant collectors."
@@ -1707,7 +1706,7 @@
       ],
       "products": "Hoya, succulents, pinguicula",
       "dates": [
-        "2026-09-20",
+        "2026-09-27",
         "2026-10-18"
       ],
       "spaceType": "one",
@@ -1724,7 +1723,7 @@
       ],
       "products": "Various Monsteras including Devil Monsters and Vietciosa starters, from green Alocasias to rare variegated Alocasia starters, both semi hydro and chunky soil, various Epiprenum / Pothos, variegated Scindapsus, maybe some variegated succulents - like variegated bromeliad, rosette snake plants etc.",
       "dates": [
-        "2026-09-20"
+        "2026-09-27"
       ],
       "spaceType": "one",
       "bio": "I am a plant enthusiast and I fell in love with growing plants as a form of living art. I truly believe that house plants can help improve mental health and well being and I want to share that vision with my community. I met a few vendors like Leah from Rockaway Botanical at the Queens Night Market and we had such a great connection talking about our love for plants for almost an hour, and then I came to the NY Plant Market in August 23rd and met so many wonderful growers and had great conversations and admiration for everyone there. I feel that I share the same passion for plants as everyone I met there, I couldn't help but want to participate and make my some of my collection available as well. I will have a wide ranging selection so that rare and affordable plants are also available."
@@ -1739,7 +1738,7 @@
       ],
       "products": "Carnivorous plants — I have been growing sundews locally in NYC and have a few species/varieties for sale (all grown from seed or via root/leaf propagation) -\n\nDrosera Capensis ‘Hercules’\nDrosera Graomogolensis\nDrosera Binata\nDrosera Adelae\nDrosera Regia (seedlings)",
       "dates": [
-        "2026-09-20",
+        "2026-09-27",
         "2026-10-18"
       ],
       "spaceType": "one",
