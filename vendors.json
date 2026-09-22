@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "publishedAt": "2026-09-18T15:17:56.866Z",
+  "publishedAt": "2026-09-22T23:51:18.918Z",
   "marketDates": [
     {
       "id": "2026-04-19",
@@ -173,7 +173,6 @@
         "2026-06-21",
         "2026-07-19",
         "2026-08-23",
-        "2026-09-27",
         "2026-10-18"
       ],
       "spaceType": "two",
@@ -595,7 +594,6 @@
       "dates": [
         "2026-04-19",
         "2026-05-31",
-        "2026-09-27",
         "2026-10-18"
       ],
       "spaceType": "one",
@@ -669,7 +667,8 @@
       "products": "Hoyas, Anthuriums",
       "dates": [
         "2026-08-23",
-        "2026-09-27"
+        "2026-09-27",
+        "2026-10-18"
       ],
       "spaceType": "one",
       "bio": "An opportunity to sell and get my name out there as I begin my business."
@@ -825,7 +824,8 @@
         "2026-06-21",
         "2026-07-19",
         "2026-08-23",
-        "2026-10-18"
+        "2026-10-18",
+        "2026-09-27"
       ],
       "spaceType": "two",
       "bio": "We would love to share our passion for houseplants with other plant enthusiasts"
@@ -879,8 +879,7 @@
         "2026-05-31",
         "2026-06-21",
         "2026-10-18",
-        "2026-08-23",
-        "2026-09-27"
+        "2026-08-23"
       ],
       "spaceType": "one",
       "bio": "Because my product will add to the NYC plant community and help NYC plant owners take care of their plants!"
@@ -1028,7 +1027,8 @@
       "products": "Certified nursery located in Philly specializing in species begonias, gesneriads, orchids with interesting foliage, Melastomataceae, Pinguicula, iridescent plants, terrarium plants, and terrarium supplies. I strive to offer beautifully grown rare plants at accessible prices, with most items priced between $15 and $35. The majority of plants I offer are propagated from my personal collection.",
       "dates": [
         "2026-07-19",
-        "2026-08-23"
+        "2026-08-23",
+        "2026-09-27"
       ],
       "spaceType": "one",
       "bio": "My friend Aaron told me you were looking for more vendors for July! But seriously I just really like vending at plant events where I can talk to like-minded plant nerds, and help match people with the perfect plant for their interests and conditions."
@@ -1062,7 +1062,6 @@
         "2026-05-31",
         "2026-06-21",
         "2026-07-19",
-        "2026-09-27",
         "2026-10-18",
         "2026-08-23"
       ],
@@ -1322,8 +1321,7 @@
       ],
       "products": "Mostly uncommon tropical plants, some very unique. Lots from or in tissue culture and project plants (ugly ducklings)",
       "dates": [
-        "2026-07-19",
-        "2026-09-27"
+        "2026-07-19"
       ],
       "spaceType": "one",
       "bio": "I've heard good things about it from fellow vendors at other events, and I have been wanting to spread my reach. It's my understanding that there's a lot of nice people going to this event."
@@ -1494,7 +1492,8 @@
       ],
       "products": "Pierogies, Kielbasa, Zapiekanka",
       "dates": [
-        "2026-07-19"
+        "2026-07-19",
+        "2026-09-27"
       ],
       "spaceType": "two",
       "bio": "Nigel invited"
@@ -1738,6 +1737,37 @@
       ],
       "spaceType": "one",
       "bio": "Would love to share my interest/passion for carnivorous plants, particularly sundews since they’re less known compared to venus flytraps or pitcher plants. I have been growing sundews for several years and have dozens of species in my collection. Right now I am trying to learn more about successful cultivation and propagation of Drosera Magnifica, a recently discovered and obscure species with little to no information available about it."
+    },
+    {
+      "businessName": "Sundew For Sale",
+      "contactName": "Matt Hochberg (Smith on facebook as I like anonymity on the internet)",
+      "socialMedia": "https://www.facebook.com/sundewsforsale",
+      "website": "",
+      "categories": [
+        "houseplants"
+      ],
+      "products": "Specializing in sundews that grow year-round, with some Pinguicula, Heliamphora and other carnivorous plants.",
+      "dates": [
+        "2026-09-27"
+      ],
+      "spaceType": "one",
+      "bio": "to meet cool new plant people and sell off some of my spare plants... to make room for more plants!"
+    },
+    {
+      "businessName": "Rare Exotic Plant Finds LLC",
+      "contactName": "Lorena Martinez",
+      "socialMedia": "https://www.facebook.com/share/19ioM6p4LW/?mibextid=wwXIfr",
+      "website": "",
+      "categories": [
+        "houseplants",
+        "growing_media"
+      ],
+      "products": "Hoyas, Dioscorea, Philodendron, Monstera, Fallopias, begonias",
+      "dates": [
+        "2026-09-27"
+      ],
+      "spaceType": "one",
+      "bio": "It’s a fun and relaxed environment"
     }
   ]
 }
