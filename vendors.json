@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "publishedAt": "2026-09-27T18:09:13.585Z",
+  "publishedAt": "2026-09-27T22:37:19.537Z",
   "marketDates": [
     {
       "id": "2026-04-19",
@@ -1178,7 +1178,7 @@
       "dates": [
         "2026-07-19",
         "2026-08-23",
-        "2026-09-27"
+        "2026-10-18"
       ],
       "spaceType": "one",
       "bio": "I would like  to be part of NYC Plant Market because the event aligns naturally with the values behind Suri & Caya — craftsmanship, nature, and intentional living. My work is rooted in natural fibers and slow handmade processes, and I believe it connects beautifully with a community that appreciates plants, thoughtful design, and calming spaces.\n\nAs a Brooklyn-based artist, I’m also excited by the opportunity to connect with other local creatives and share my work with an audience that values handmade objects and organic materials."
@@ -1522,7 +1522,9 @@
         "kits"
       ],
       "products": "Rare Terrarium Begonias, and mini terrariums",
-      "dates": [],
+      "dates": [
+        "2026-10-18"
+      ],
       "spaceType": "one",
       "bio": "I have been a plant keeper, specifically focusing on terrarium begonias for years. This past year i began hybridizung and growing rare imported species begonia from seed. In the plabt market for rare terrarium begonia there are a very small handful of sellers that gatekeep these incredible species by super high pay walls. Although I have been selling for quite a while it became my passion to cultivate these rare begonia and bring then to the enthusiasts for more affordable prices!"
     },
@@ -1629,7 +1631,9 @@
         "houseplants"
       ],
       "products": "Mostly rare Hoya species.",
-      "dates": [],
+      "dates": [
+        "2026-10-18"
+      ],
       "spaceType": "one",
       "bio": "I came to the market today and picked up a few things. You need more Hoya vendors!"
     },
@@ -1648,6 +1652,21 @@
       ],
       "spaceType": "one",
       "bio": "Sell unique plants, meet plant collectors."
+    },
+    {
+      "businessName": "Ecstatic Revival",
+      "contactName": "Katherine Demby",
+      "socialMedia": "@ecstaticrevival",
+      "website": "",
+      "categories": [
+        "accessories"
+      ],
+      "products": "Plant pots (small, medium, large), vases, flower frogs",
+      "dates": [
+        "2026-10-18"
+      ],
+      "spaceType": "one",
+      "bio": "I'm a local ceramicist living and working in LIC. I handbuild all of my work myself. I have a very unique style and I'd love to share my work with my neighbors and others."
     },
     {
       "businessName": "Therese Flores-Green",
@@ -1674,7 +1693,9 @@
         "houseplants"
       ],
       "products": "Carnivorous plants — I have been growing sundews locally in NYC and have a few species/varieties for sale (all grown from seed or via root/leaf propagation) -\n\nDrosera Capensis ‘Hercules’\nDrosera Graomogolensis\nDrosera Binata\nDrosera Adelae\nDrosera Regia (seedlings)",
-      "dates": [],
+      "dates": [
+        "2026-10-18"
+      ],
       "spaceType": "one",
       "bio": "Would love to share my interest/passion for carnivorous plants, particularly sundews since they’re less known compared to venus flytraps or pitcher plants. I have been growing sundews for several years and have dozens of species in my collection. Right now I am trying to learn more about successful cultivation and propagation of Drosera Magnifica, a recently discovered and obscure species with little to no information available about it."
     },
