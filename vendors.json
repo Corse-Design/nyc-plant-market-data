@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "publishedAt": "2026-10-10T13:06:49.658Z",
+  "publishedAt": "2026-10-10T13:10:56.260Z",
   "marketDates": [
     {
       "id": "2026-04-19",
@@ -1456,7 +1456,8 @@
       ],
       "products": "Pierogies, Kielbasa, Zapiekanka",
       "dates": [
-        "2026-07-19"
+        "2026-07-19",
+        "2026-10-18"
       ],
       "spaceType": "two",
       "bio": "Nigel invited"
@@ -1708,6 +1709,21 @@
       ],
       "spaceType": "one",
       "bio": "to meet cool new plant people and sell off some of my spare plants... to make room for more plants!"
+    },
+    {
+      "businessName": "Enfes",
+      "contactName": "Rachel",
+      "socialMedia": "https://www.instagram.com/enfesnyc/?hl=en",
+      "website": "",
+      "categories": [
+        "food_bev"
+      ],
+      "products": "Turkish food ",
+      "dates": [
+        "2026-10-18"
+      ],
+      "spaceType": "two",
+      "bio": ""
     }
   ]
 }
